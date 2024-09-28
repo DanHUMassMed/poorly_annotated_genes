@@ -1,0 +1,2165 @@
+ID,Name,Evidence
+WBPhenotype:0000000,chromosome instability,rnai
+WBPhenotype:0000001,body posture variant,allele
+WBPhenotype:0000002,kinker,rnai
+WBPhenotype:0000004,constitutive egg laying,allele
+WBPhenotype:0000005,hyperactive egg laying,allele
+WBPhenotype:0000006,egg laying defective,allele
+WBPhenotype:0000007,bag of worms,allele
+WBPhenotype:0000010,drug hypersensitive,allele
+WBPhenotype:0000011,drug resistant,allele
+WBPhenotype:0000012,dauer constitutive,rnai
+WBPhenotype:0000013,dauer defective,allele
+WBPhenotype:0000014,cord commissures variant,rnai
+WBPhenotype:0000015,positive chemotaxis defective,allele
+WBPhenotype:0000016,aldicarb hypersensitive,allele
+WBPhenotype:0000017,aldicarb resistant,allele
+WBPhenotype:0000018,pharyngeal pumping increased,rnai
+WBPhenotype:0000019,pharyngeal pumping reduced,rnai
+WBPhenotype:0000020,pharyngeal pumping irregular,allele
+WBPhenotype:0000021,squat,rnai
+WBPhenotype:0000022,long,allele
+WBPhenotype:0000023,serotonin hypersensitive,allele
+WBPhenotype:0000024,serotonin resistant,allele
+WBPhenotype:0000025,blistered,allele
+WBPhenotype:0000026,lipid depleted,allele
+WBPhenotype:0000027,organism metabolism processing variant,allele
+WBPhenotype:0000028,RNA processing variant,allele
+WBPhenotype:0000029,systemic RNAi variant,allele
+WBPhenotype:0000030,growth variant,rnai
+WBPhenotype:0000031,slow growth,rnai
+WBPhenotype:0000032,sick,rnai
+WBPhenotype:0000033,developmental timing variant,rnai
+WBPhenotype:0000034,embryonic polarity variant,rnai
+WBPhenotype:0000035,larval body morphology variant,allele
+WBPhenotype:0000036,adult body morphology variant,allele
+WBPhenotype:0000037,egg morphology variant,rnai
+WBPhenotype:0000038,exploded through vulva,allele
+WBPhenotype:0000039,life span phenotype,rnai
+WBPhenotype:0000040,one cell arrest early emb,rnai
+WBPhenotype:0000041,osmotic integrity variant,allele
+WBPhenotype:0000042,slow embryonic development,rnai
+WBPhenotype:0000043,general pace of development variant,allele
+WBPhenotype:0000044,egg size defective early emb,allele
+WBPhenotype:0000045,developmental delay postembryonic,rnai
+WBPhenotype:0000046,pace of P lineage defective early emb,rnai
+WBPhenotype:0000047,gastrulation variant,allele
+WBPhenotype:0000048,hatching variant,rnai
+WBPhenotype:0000049,postembryonic development variant,allele
+WBPhenotype:0000050,embryonic lethal,allele
+WBPhenotype:0000051,embryonic terminal arrest variable emb,rnai
+WBPhenotype:0000052,maternal effect lethal emb,allele
+WBPhenotype:0000053,paralyzed arrested elongation two fold,allele
+WBPhenotype:0000054,larval lethal,rnai
+WBPhenotype:0000055,early larval arrest,allele
+WBPhenotype:0000056,late larval arrest,rnai
+WBPhenotype:0000057,early larval lethal,rnai
+WBPhenotype:0000058,late larval lethal,rnai
+WBPhenotype:0000059,larval arrest,allele
+WBPhenotype:0000060,adult lethal,allele
+WBPhenotype:0000061,extended life span,allele
+WBPhenotype:0000062,lethal,allele
+WBPhenotype:0000063,terminal arrest variable,rnai
+WBPhenotype:0000064,sexually dimorphic lethality,rnai
+WBPhenotype:0000065,X0 lethal,rnai
+WBPhenotype:0000066,XX lethal,allele
+WBPhenotype:0000067,organism stress response variant,rnai
+WBPhenotype:0000068,cellular oxidative stress response variant,allele
+WBPhenotype:0000069,progeny variant,allele
+WBPhenotype:0000070,male tail morphology variant,rnai
+WBPhenotype:0000071,head morphology variant,rnai
+WBPhenotype:0000072,body morphology variant,rnai
+WBPhenotype:0000073,tail morphology variant,rnai
+WBPhenotype:0000075,cuticle attachment variant,allele
+WBPhenotype:0000076,epithelial attachment variant,rnai
+WBPhenotype:0000077,cuticle shedding defect,allele
+WBPhenotype:0000078,seam cells stacked,rnai
+WBPhenotype:0000079,branched adult alae,rnai
+WBPhenotype:0000080,no anterior pharynx,allele
+WBPhenotype:0000081,L1 arrest,rnai
+WBPhenotype:0000082,L2 arrest,rnai
+WBPhenotype:0000083,L3 arrest,allele
+WBPhenotype:0000084,L4 arrest,rnai
+WBPhenotype:0000085,swollen intestinal lumen,rnai
+WBPhenotype:0000087,body wall cell development variant,allele
+WBPhenotype:0000088,body muscle displaced,allele
+WBPhenotype:0000089,alpha amanitin resistant,allele
+WBPhenotype:0000090,epidermis cuticle detached,rnai
+WBPhenotype:0000091,epidermis muscle detached,rnai
+WBPhenotype:0000092,intestinal cell proliferation variant,allele
+WBPhenotype:0000093,lineage variant,allele
+WBPhenotype:0000094,anus development variant,allele
+WBPhenotype:0000095,M lineage variant,rnai
+WBPhenotype:0000097,AB lineage variant,allele
+WBPhenotype:0000099,P lineages variant,allele
+WBPhenotype:0000100,cell UV response variant,rnai
+WBPhenotype:0000101,UV induced apoptosis increased,rnai
+WBPhenotype:0000102,presynaptic vesicle cluster variant,allele
+WBPhenotype:0000103,gut granule development variant,rnai
+WBPhenotype:0000104,cell polarity variant,rnai
+WBPhenotype:0000105,oocyte meiotic maturation variant,allele
+WBPhenotype:0000106,inhibition of oocyte maturation variant,rnai
+WBPhenotype:0000107,inhibition of ovulation variant,rnai
+WBPhenotype:0000111,pattern of gene expression variant,allele
+WBPhenotype:0000112,protein expression variant,rnai
+WBPhenotype:0000113,RNA expression variant,rnai
+WBPhenotype:0000114,mRNA expression variant,rnai
+WBPhenotype:0000115,anterior pharynx variant,rnai
+WBPhenotype:0000116,mid larval lethal,allele
+WBPhenotype:0000117,L1 lethal,allele
+WBPhenotype:0000118,L2 lethal,allele
+WBPhenotype:0000119,protein expression increased,allele
+WBPhenotype:0000120,protein expression reduced,rnai
+WBPhenotype:0000121,translation variant,allele
+WBPhenotype:0000122,post translational processing variant,rnai
+WBPhenotype:0000123,enzyme expression level reduced,allele
+WBPhenotype:0000124,enzyme activity reduced,allele
+WBPhenotype:0000125,enzyme activity increased,rnai
+WBPhenotype:0000126,general pace of development defective early emb,rnai
+WBPhenotype:0000127,dauer recovery variant,allele
+WBPhenotype:0000128,temperature induced dauer formation increased,allele
+WBPhenotype:0000129,temperature induced dauer formation defective,rnai
+WBPhenotype:0000130,pheromone induced dauer formation enhanced,allele
+WBPhenotype:0000131,pheromone induced dauer formation defective,allele
+WBPhenotype:0000132,pheromone induced dauer formation variant,allele
+WBPhenotype:0000133,expression lipogenic enzyme reduced,rnai
+WBPhenotype:0000134,gene expression level reduced,rnai
+WBPhenotype:0000135,gene expression level high,rnai
+WBPhenotype:0000136,mRNA levels increased,allele
+WBPhenotype:0000137,mRNA levels reduced,rnai
+WBPhenotype:0000138,lipid composition variant,allele
+WBPhenotype:0000139,stress induced lethality variant,rnai
+WBPhenotype:0000140,stress induced arrest variant,allele
+WBPhenotype:0000141,stress induced lethality increased,rnai
+WBPhenotype:0000142,cell stress response variant,rnai
+WBPhenotype:0000143,organism UV response variant,rnai
+WBPhenotype:0000144,pathogen induced cell death increased,allele
+WBPhenotype:0000145,fertility phenotype,rnai
+WBPhenotype:0000146,organism temperature response variant,allele
+WBPhenotype:0000147,organism starvation response variant,allele
+WBPhenotype:0000148,starvation induced dauer formation variant,allele
+WBPhenotype:0000150,starvation induced dauer formation defective,allele
+WBPhenotype:0000151,anterior pharynx extra cells,allele
+WBPhenotype:0000152,no cleavage furrow first division early emb,allele
+WBPhenotype:0000153,body wall muscle contraction abnormal,allele
+WBPhenotype:0000154,reduced brood size,allele
+WBPhenotype:0000155,cell polarity reversed,allele
+WBPhenotype:0000157,posterior body wall contraction defecation cycle variant,allele
+WBPhenotype:0000161,nuclear rotation variant,rnai
+WBPhenotype:0000162,pale larva,allele
+WBPhenotype:0000163,clear larva,allele
+WBPhenotype:0000164,thin,allele
+WBPhenotype:0000165,cell fusion variant,allele
+WBPhenotype:0000166,seam cell fusion variant,rnai
+WBPhenotype:0000167,precocious seam cell fusion,rnai
+WBPhenotype:0000168,alae secretion variant,rnai
+WBPhenotype:0000169,early exit cell cycle,rnai
+WBPhenotype:0000170,precocious alae,rnai
+WBPhenotype:0000171,cell proliferation variant,allele
+WBPhenotype:0000172,cell proliferation increased,rnai
+WBPhenotype:0000173,cell proliferation reduced,rnai
+WBPhenotype:0000174,basal lamina development variant,allele
+WBPhenotype:0000175,hypercontracted,allele
+WBPhenotype:0000177,acetylcholinesterase reduced,allele
+WBPhenotype:0000178,cell degeneration,allele
+WBPhenotype:0000179,neuron degeneration,rnai
+WBPhenotype:0000180,axon morphology variant,allele
+WBPhenotype:0000181,axon trajectory variant,allele
+WBPhenotype:0000182,apoptosis reduced,rnai
+WBPhenotype:0000183,apoptosis increased,rnai
+WBPhenotype:0000184,apoptosis fails to occur,rnai
+WBPhenotype:0000186,oogenesis variant,rnai
+WBPhenotype:0000187,egg round,allele
+WBPhenotype:0000188,gonad arm morphology variant,rnai
+WBPhenotype:0000189,hypodermis disorganized,allele
+WBPhenotype:0000190,no dauer recovery,allele
+WBPhenotype:0000194,first polar body position variant,allele
+WBPhenotype:0000195,distal tip cell migration variant,rnai
+WBPhenotype:0000196,distal tip cell morphology variant,rnai
+WBPhenotype:0000197,cell induction variant,allele
+WBPhenotype:0000199,male tail sensory ray development variant,allele
+WBPhenotype:0000200,pericellular component development variant,allele
+WBPhenotype:0000201,cuticle development variant,allele
+WBPhenotype:0000202,alae variant,rnai
+WBPhenotype:0000203,odorant adaptation variant,allele
+WBPhenotype:0000204,anterior body contraction defecation cycle variant,allele
+WBPhenotype:0000205,expulsion variant,rnai
+WBPhenotype:0000206,autosomal nondisjunction meiosis,allele
+WBPhenotype:0000207,defecation cycle variant,allele
+WBPhenotype:0000208,long defecation cycle,allele
+WBPhenotype:0000209,short defecation cycle,rnai
+WBPhenotype:0000210,defecation contraction variant,allele
+WBPhenotype:0000212,body constriction,rnai
+WBPhenotype:0000215,no germ line,allele
+WBPhenotype:0000216,cell fate specification variant,rnai
+WBPhenotype:0000218,vulval cell induction increased,rnai
+WBPhenotype:0000219,vulval cell induction reduced,allele
+WBPhenotype:0000220,vulva cell fate specification variant,rnai
+WBPhenotype:0000221,neurotransmitter metabolism variant,allele
+WBPhenotype:0000222,serotonin metabolism variant,allele
+WBPhenotype:0000224,serotonin deficient,allele
+WBPhenotype:0000227,male turning defective,allele
+WBPhenotype:0000228,spontaneous mutation rate increased,rnai
+WBPhenotype:0000229,small,rnai
+WBPhenotype:0000230,tail withered,allele
+WBPhenotype:0000231,body size variant,allele
+WBPhenotype:0000232,CAN cell migration variant,allele
+WBPhenotype:0000233,dopamine metabolism variant,allele
+WBPhenotype:0000234,dopamine deficient,allele
+WBPhenotype:0000237,foraging hyperactive,allele
+WBPhenotype:0000238,foraging reduced,allele
+WBPhenotype:0000239,vulval cell lineage variant,allele
+WBPhenotype:0000240,blast cell proliferation reduced,allele
+WBPhenotype:0000241,accumulated cell corpses,rnai
+WBPhenotype:0000242,body elongation defective,allele
+WBPhenotype:0000243,engulfment failure by killer cell,rnai
+WBPhenotype:0000245,SM migration variant,allele
+WBPhenotype:0000246,defecation cycle variable length,allele
+WBPhenotype:0000247,sodium chemotaxis defective,allele
+WBPhenotype:0000249,osmotic avoidance defective,allele
+WBPhenotype:0000251,octopamine deficient,allele
+WBPhenotype:0000252,caffeine resistant,allele
+WBPhenotype:0000253,movement erratic,allele
+WBPhenotype:0000254,chloride chemotaxis defective,allele
+WBPhenotype:0000255,amphid phasmid neuron morphology variant,allele
+WBPhenotype:0000256,amphid neuron morphology variant,allele
+WBPhenotype:0000257,phasmid neuron morphology variant,allele
+WBPhenotype:0000258,cell secretion variant,rnai
+WBPhenotype:0000260,sheath cell secretion failure,allele
+WBPhenotype:0000262,axoneme morphology variant,allele
+WBPhenotype:0000263,axoneme short,allele
+WBPhenotype:0000264,cAMP chemotaxis defective,allele
+WBPhenotype:0000266,cell cleavage variant,allele
+WBPhenotype:0000267,cell cleavage delayed,rnai
+WBPhenotype:0000270,pleiotropic defects severe early emb,rnai
+WBPhenotype:0000272,egg laying irregular,allele
+WBPhenotype:0000273,thrashing reduced,allele
+WBPhenotype:0000274,dead eggs laid,rnai
+WBPhenotype:0000275,organism UV hypersensitive,allele
+WBPhenotype:0000276,organism X ray response variant,rnai
+WBPhenotype:0000277,rhythm slow,allele
+WBPhenotype:0000279,spicule insertion defective,allele
+WBPhenotype:0000280,breaks in alae,allele
+WBPhenotype:0000281,male sex muscle development variant,allele
+WBPhenotype:0000282,hermaphrodite sex muscle development variant,allele
+WBPhenotype:0000283,vulva uterus connection defective,allele
+WBPhenotype:0000284,sperm transfer defective,allele
+WBPhenotype:0000285,ray tips swollen,allele
+WBPhenotype:0000286,embryo disorganized,allele
+WBPhenotype:0000288,distal germline variant,allele
+WBPhenotype:0000289,uterus morphology variant,rnai
+WBPhenotype:0000290,sperm absent,rnai
+WBPhenotype:0000291,no oocytes,rnai
+WBPhenotype:0000293,alimentary system pigmentation variant,allele
+WBPhenotype:0000294,intestine dark,allele
+WBPhenotype:0000295,thermotolerance increased,allele
+WBPhenotype:0000296,spicules crumpled,allele
+WBPhenotype:0000297,rays fused,allele
+WBPhenotype:0000298,rays displaced,allele
+WBPhenotype:0000299,sensillum morphology variant,allele
+WBPhenotype:0000300,amphid sheath cell morphology variant,allele
+WBPhenotype:0000301,distal tip cell reflex failure,allele
+WBPhenotype:0000302,benzaldehyde chemotaxis defective,allele
+WBPhenotype:0000303,diacetyl chemotaxis defective,allele
+WBPhenotype:0000304,isoamyl alcohol chemotaxis defective,rnai
+WBPhenotype:0000305,pheromone sensation variant,allele
+WBPhenotype:0000306,transgene expression variant,rnai
+WBPhenotype:0000308,dauer development phenotype,allele
+WBPhenotype:0000309,SDS sensitive dauer,allele
+WBPhenotype:0000310,cilia absent,allele
+WBPhenotype:0000312,dauer pheromone production defective,allele
+WBPhenotype:0000313,meiotic progression during oogenesis variant,rnai
+WBPhenotype:0000314,scrawny,allele
+WBPhenotype:0000315,mechanosensation variant,allele
+WBPhenotype:0000316,touch resistant tail,allele
+WBPhenotype:0000318,cell cycle delayed,rnai
+WBPhenotype:0000319,large,rnai
+WBPhenotype:0000320,reduced viability after freezing,allele
+WBPhenotype:0000321,nose morphology variant,allele
+WBPhenotype:0000322,nose rounded,allele
+WBPhenotype:0000323,head swollen,allele
+WBPhenotype:0000324,short,allele
+WBPhenotype:0000325,arecoline hypersensitive,allele
+WBPhenotype:0000327,corpus contraction defect,allele
+WBPhenotype:0000328,terminal bulb contraction variant,allele
+WBPhenotype:0000329,pumping asynchronous,allele
+WBPhenotype:0000330,pharyngeal relaxation defective,allele
+WBPhenotype:0000332,inhibitors of sodium potassium ATPase hypersensitive,allele
+WBPhenotype:0000333,pharyngeal pumps brief,allele
+WBPhenotype:0000334,isthmus corpus slippery,allele
+WBPhenotype:0000335,pharynx slippery,allele
+WBPhenotype:0000336,terminal bulb relaxation variant,allele
+WBPhenotype:0000337,grinder relaxation defective,allele
+WBPhenotype:0000338,tail swelling,rnai
+WBPhenotype:0000339,transient bloating,allele
+WBPhenotype:0000340,imipramine resistant,allele
+WBPhenotype:0000341,imipramine hypersensitive,allele
+WBPhenotype:0000342,bursa morphology variant,allele
+WBPhenotype:0000344,cloacal structures protrude,allele
+WBPhenotype:0000345,VPC cell division variant,allele
+WBPhenotype:0000346,adult pigmentation variant,rnai
+WBPhenotype:0000347,rectal development variant,allele
+WBPhenotype:0000349,flaccid,allele
+WBPhenotype:0000350,hermaphrodite tail spike variant,allele
+WBPhenotype:0000351,failure to hatch,allele
+WBPhenotype:0000352,backing uncoordinated,allele
+WBPhenotype:0000353,backing increased,allele
+WBPhenotype:0000354,cell differentiation variant,rnai
+WBPhenotype:0000355,HSN differentiation precocious,allele
+WBPhenotype:0000356,spermatogenesis delayed,allele
+WBPhenotype:0000357,unfertilized oocytes laid,allele
+WBPhenotype:0000358,extra cell division postembryonic,allele
+WBPhenotype:0000359,tunicamycin response variant,rnai
+WBPhenotype:0000360,cytoplasmic streaming defective,allele
+WBPhenotype:0000361,lima bean arrest,rnai
+WBPhenotype:0000362,blastocoel variant,allele
+WBPhenotype:0000363,cell division slow,allele
+WBPhenotype:0000364,gut granule birefringence misplaced,allele
+WBPhenotype:0000365,embryo osmotic integrity defective early emb,rnai
+WBPhenotype:0000366,three fold arrest,rnai
+WBPhenotype:0000367,comma arrest emb,rnai
+WBPhenotype:0000368,one point five fold arrest emb,rnai
+WBPhenotype:0000369,pretzel arrest,rnai
+WBPhenotype:0000370,egg long,allele
+WBPhenotype:0000372,no polar body formation,rnai
+WBPhenotype:0000373,egg shape variable,rnai
+WBPhenotype:0000376,no uterine cavity,allele
+WBPhenotype:0000377,canal lumen morphology variant,allele
+WBPhenotype:0000378,pharyngeal pumping shallow,allele
+WBPhenotype:0000379,head notched,rnai
+WBPhenotype:0000380,expulsion infrequent,allele
+WBPhenotype:0000381,serotonin reuptake inhibitor resistant,allele
+WBPhenotype:0000383,lipid synthesis defective,allele
+WBPhenotype:0000384,axon guidance variant,allele
+WBPhenotype:0000385,sperm excess,allele
+WBPhenotype:0000386,genotoxic chemical induced apoptosis variant,allele
+WBPhenotype:0000387,sperm nonmotile,rnai
+WBPhenotype:0000388,sperm morphology variant,allele
+WBPhenotype:0000389,hermaphrodite sperm fertilization defective,allele
+WBPhenotype:0000390,spermatid activation defective,allele
+WBPhenotype:0000391,defecation missing motor steps,allele
+WBPhenotype:0000392,intestinal fluorescence increased,allele
+WBPhenotype:0000393,cell migration failure,rnai
+WBPhenotype:0000394,electrophoretic variant protein,allele
+WBPhenotype:0000395,no differentiated gametes,allele
+WBPhenotype:0000396,non reflexed gonad arms,rnai
+WBPhenotype:0000397,harsh body touch resistant,allele
+WBPhenotype:0000398,light body touch resistant,allele
+WBPhenotype:0000399,somatic gonad development variant,rnai
+WBPhenotype:0000400,somatic gonad primordium development defective,allele
+WBPhenotype:0000401,no uterus,allele
+WBPhenotype:0000402,avoids bacterial lawn,rnai
+WBPhenotype:0000403,sperm transfer initiation defective,allele
+WBPhenotype:0000404,delayed hatching,rnai
+WBPhenotype:0000405,giant oocytes,rnai
+WBPhenotype:0000406,lumpy,allele
+WBPhenotype:0000408,dauer recovery inhibited,allele
+WBPhenotype:0000409,organism morphology variable,allele
+WBPhenotype:0000410,no defecation cycle,rnai
+WBPhenotype:0000411,rod like larval lethal,allele
+WBPhenotype:0000412,octanol chemotaxis defective,allele
+WBPhenotype:0000413,pharyngeal muscle paralyzed,allele
+WBPhenotype:0000414,cell fate transformation,allele
+WBPhenotype:0000415,necrotic cell death variant,rnai
+WBPhenotype:0000416,yolk synthesis variant,allele
+WBPhenotype:0000417,cell division failure,rnai
+WBPhenotype:0000419,L3 lethal,allele
+WBPhenotype:0000420,levamisole hypersensitive,allele
+WBPhenotype:0000421,levamisole resistant,rnai
+WBPhenotype:0000422,twitcher,allele
+WBPhenotype:0000423,head muscle contraction variant,allele
+WBPhenotype:0000424,antibody staining variant,allele
+WBPhenotype:0000425,antibody staining reduced,rnai
+WBPhenotype:0000426,antibody staining increased,allele
+WBPhenotype:0000428,no adult cuticle,allele
+WBPhenotype:0000430,male copulatory structure development variant,allele
+WBPhenotype:0000432,male copulatory structure absent,allele
+WBPhenotype:0000433,DNA synthesis variant,rnai
+WBPhenotype:0000434,sexual maturation defective,allele
+WBPhenotype:0000436,protein subcellular localization variant,allele
+WBPhenotype:0000438,retarded heterochronic variations,allele
+WBPhenotype:0000439,precocious heterochronic variations,rnai
+WBPhenotype:0000440,excretory canals long,allele
+WBPhenotype:0000441,tail rounded,allele
+WBPhenotype:0000442,larval development retarded,allele
+WBPhenotype:0000443,spicule morphology variant,allele
+WBPhenotype:0000444,bursa elongated,allele
+WBPhenotype:0000445,yolk synthesis in males,allele
+WBPhenotype:0000446,supernumerary molt,allele
+WBPhenotype:0000447,adult development variant,allele
+WBPhenotype:0000448,adult cuticle development variant,rnai
+WBPhenotype:0000451,head protrusion,allele
+WBPhenotype:0000452,tail protrusions,allele
+WBPhenotype:0000453,body protrusions,allele
+WBPhenotype:0000454,head twisted,allele
+WBPhenotype:0000455,jerky movement,allele
+WBPhenotype:0000456,touch resistant,allele
+WBPhenotype:0000457,organism starvation hypersensitive,allele
+WBPhenotype:0000458,starvation resistant,rnai
+WBPhenotype:0000459,pesticide response variant,rnai
+WBPhenotype:0000460,paraquat response variant,allele
+WBPhenotype:0000461,paraquat resistant,rnai
+WBPhenotype:0000462,paraquat hypersensitive,allele
+WBPhenotype:0000463,metabolic pathway variant,allele
+WBPhenotype:0000464,oxygen response variant,rnai
+WBPhenotype:0000466,high oxygen hypersensitive,allele
+WBPhenotype:0000467,age associated fluorescence increased,rnai
+WBPhenotype:0000468,age associated fluorescence reduced,rnai
+WBPhenotype:0000469,Q neuroblast lineage migration variant,rnai
+WBPhenotype:0000470,HSN migration variant,allele
+WBPhenotype:0000471,ALM migration variant,allele
+WBPhenotype:0000472,endoderm absent,rnai
+WBPhenotype:0000473,progressive paralysis,rnai
+WBPhenotype:0000474,muscle attachment variant,allele
+WBPhenotype:0000475,muscle detached,rnai
+WBPhenotype:0000476,progressive muscle detachment,allele
+WBPhenotype:0000477,nucleolus refraction variant,allele
+WBPhenotype:0000478,isothermal tracking behavior variant,allele
+WBPhenotype:0000480,pyrazine chemotaxis defective,allele
+WBPhenotype:0000481,negative chemotaxis variant,allele
+WBPhenotype:0000483,no gut granules,rnai
+WBPhenotype:0000484,embryo small,rnai
+WBPhenotype:0000485,dauer death increased,allele
+WBPhenotype:0000486,colchicine hypersensitive,allele
+WBPhenotype:0000487,colchicine resistant,allele
+WBPhenotype:0000488,chloroquine hypersensitive,allele
+WBPhenotype:0000490,pharynx disorganized,rnai
+WBPhenotype:0000491,isthmus morphology defective,allele
+WBPhenotype:0000492,corpus morphology defective,allele
+WBPhenotype:0000493,metacorpus morphology defective,allele
+WBPhenotype:0000494,two fold arrest,rnai
+WBPhenotype:0000495,ray ectopic,rnai
+WBPhenotype:0000496,male postdeirid sensilla absent,allele
+WBPhenotype:0000497,organism gamma ray response variant,rnai
+WBPhenotype:0000500,acetylcholinesterase inhibitor hypersensitive,allele
+WBPhenotype:0000501,left handed roller,allele
+WBPhenotype:0000502,right handed roller,allele
+WBPhenotype:0000503,endoreduplication variant,allele
+WBPhenotype:0000504,nuclear division variant,allele
+WBPhenotype:0000505,male ray morphology variant,allele
+WBPhenotype:0000506,bursa swollen,allele
+WBPhenotype:0000507,acetylcholine levels variant,allele
+WBPhenotype:0000508,nonsense mRNA accumulation,rnai
+WBPhenotype:0000509,sperm pseudopod variant,rnai
+WBPhenotype:0000510,vulval invagination variant L4,allele
+WBPhenotype:0000511,nuclear positioning variant,allele
+WBPhenotype:0000512,VNC nuclear positioning variant,allele
+WBPhenotype:0000514,rubber band,allele
+WBPhenotype:0000515,ventral nerve cord development variant,allele
+WBPhenotype:0000516,ventral cord disorganized,rnai
+WBPhenotype:0000517,behavior phenotype,allele
+WBPhenotype:0000518,development phenotype,rnai
+WBPhenotype:0000519,physiology phenotype,allele
+WBPhenotype:0000520,morphology phenotype,allele
+WBPhenotype:0000521,pigmentation phenotype,allele
+WBPhenotype:0000523,chemical response variant,allele
+WBPhenotype:0000525,organism behavior variant,allele
+WBPhenotype:0000527,organism pigmentation phenotype,rnai
+WBPhenotype:0000529,cell development variant,rnai
+WBPhenotype:0000531,organism development variant,rnai
+WBPhenotype:0000532,body region morphology variant,allele
+WBPhenotype:0000533,cell morphology variant,rnai
+WBPhenotype:0000535,organism morphology variant,rnai
+WBPhenotype:0000536,cell physiology phenotype,allele
+WBPhenotype:0000539,dorsal nerve cord development variant,rnai
+WBPhenotype:0000540,muscle arm development variant,allele
+WBPhenotype:0000541,cord commissures fail to reach target,rnai
+WBPhenotype:0000542,fat,allele
+WBPhenotype:0000543,forward kinker,allele
+WBPhenotype:0000544,backward kinker,allele
+WBPhenotype:0000545,egg retention,allele
+WBPhenotype:0000546,early eggs laid,allele
+WBPhenotype:0000547,starved,allele
+WBPhenotype:0000548,muscle dystrophy,allele
+WBPhenotype:0000549,head muscle dystrophy,allele
+WBPhenotype:0000550,body muscle dystrophy,rnai
+WBPhenotype:0000551,omega turns variant,allele
+WBPhenotype:0000552,GABA levels variant,allele
+WBPhenotype:0000553,muscle birefringence variant,allele
+WBPhenotype:0000554,hypoosmotic shock hypersensitive,rnai
+WBPhenotype:0000555,drug adaptation variant,allele
+WBPhenotype:0000556,dopamine adaptation variant,allele
+WBPhenotype:0000557,dopamine adaptation defective,allele
+WBPhenotype:0000559,calcium channel modulator hypersensitive,allele
+WBPhenotype:0000561,head levamisole resistant,allele
+WBPhenotype:0000562,body levamisole resistant,allele
+WBPhenotype:0000563,shrinker,allele
+WBPhenotype:0000564,echo defecation cycle,rnai
+WBPhenotype:0000565,coiler,allele
+WBPhenotype:0000566,ventral coiler,allele
+WBPhenotype:0000569,axon varicosities,allele
+WBPhenotype:0000571,axon vesicle variant,allele
+WBPhenotype:0000572,neuronal outgrowth variant,allele
+WBPhenotype:0000574,excretory canal short,allele
+WBPhenotype:0000576,organism physiology phenotype,allele
+WBPhenotype:0000577,organism homeostasis metabolism variant,rnai
+WBPhenotype:0000578,body axis development variant,rnai
+WBPhenotype:0000583,dumpy,allele
+WBPhenotype:0000584,synaptic transmission variant,allele
+WBPhenotype:0000585,cell homeostasis metabolism variant,rnai
+WBPhenotype:0000586,bleach hypersensitive,allele
+WBPhenotype:0000590,cell corpse number variant,allele
+WBPhenotype:0000591,metal response variant,rnai
+WBPhenotype:0000592,copper response variant,allele
+WBPhenotype:0000593,copper hypersensitive,allele
+WBPhenotype:0000594,cell migration variant,rnai
+WBPhenotype:0000595,head behavior variant,rnai
+WBPhenotype:0000600,epithelial system morphology variant,rnai
+WBPhenotype:0000601,excretory secretory system morphology variant,allele
+WBPhenotype:0000603,muscle system morphology variant,allele
+WBPhenotype:0000604,nervous system morphology variant,allele
+WBPhenotype:0000605,reproductive system morphology variant,rnai
+WBPhenotype:0000610,excretory system physiology variant,rnai
+WBPhenotype:0000611,muscle system physiology variant,allele
+WBPhenotype:0000612,nervous system physiology variant,rnai
+WBPhenotype:0000613,reproductive system physiology variant,rnai
+WBPhenotype:0000615,cilia morphology variant,allele
+WBPhenotype:0000616,synapse morphology variant,allele
+WBPhenotype:0000617,alimentary system development variant,allele
+WBPhenotype:0000618,coelomic system development variant,rnai
+WBPhenotype:0000619,epithelial system development variant,rnai
+WBPhenotype:0000621,excretory system development variant,allele
+WBPhenotype:0000622,muscle system development variant,rnai
+WBPhenotype:0000623,nervous system development variant,allele
+WBPhenotype:0000624,reproductive system development variant,allele
+WBPhenotype:0000625,synaptogenesis variant,allele
+WBPhenotype:0000628,spindle assembly defective early emb,rnai
+WBPhenotype:0000630,quinine chemotaxis defective,allele
+WBPhenotype:0000631,drug response variant,allele
+WBPhenotype:0000632,axon fasciculation variant,allele
+WBPhenotype:0000633,axon branching variant,allele
+WBPhenotype:0000634,pharyngeal pumping variant,rnai
+WBPhenotype:0000636,neuron degeneration variant,rnai
+WBPhenotype:0000637,dauer formation variant,allele
+WBPhenotype:0000638,molt defect,rnai
+WBPhenotype:0000639,temperature induced dauer formation variant,allele
+WBPhenotype:0000640,egg laying variant,rnai
+WBPhenotype:0000641,activity level variant,allele
+WBPhenotype:0000642,hyperactive,allele
+WBPhenotype:0000643,locomotion variant,allele
+WBPhenotype:0000644,paralyzed,rnai
+WBPhenotype:0000645,roller,allele
+WBPhenotype:0000646,sluggish,allele
+WBPhenotype:0000647,copulation variant,allele
+WBPhenotype:0000648,male mating variant,allele
+WBPhenotype:0000649,vulva location variant,allele
+WBPhenotype:0000650,defecation variant,allele
+WBPhenotype:0000651,constipated,allele
+WBPhenotype:0000652,sensory system variant,allele
+WBPhenotype:0000653,mechanosensory system variant,allele
+WBPhenotype:0000654,synaptic vesicle exocytosis variant,allele
+WBPhenotype:0000655,GABA synaptic transmission variant,allele
+WBPhenotype:0000656,acetylcholine synaptic transmission variant,allele
+WBPhenotype:0000657,neuronal synaptic transmission variant,allele
+WBPhenotype:0000658,neuromuscular synaptic transmission variant,allele
+WBPhenotype:0000659,feeding behavior variant,allele
+WBPhenotype:0000660,social feeding increased,allele
+WBPhenotype:0000661,solitary feeding increased,allele
+WBPhenotype:0000662,foraging behavior variant,rnai
+WBPhenotype:0000663,osmotic avoidance variant,allele
+WBPhenotype:0000664,exaggerated body bends,allele
+WBPhenotype:0000665,connection of gonad variant,allele
+WBPhenotype:0000666,ovulation variant,rnai
+WBPhenotype:0000667,gonad displaced,rnai
+WBPhenotype:0000668,endomitotic oocytes,allele
+WBPhenotype:0000669,sex muscle development variant,allele
+WBPhenotype:0000670,spermatogenesis variant,allele
+WBPhenotype:0000671,resistant to copper,allele
+WBPhenotype:0000672,presynaptic vesicle cluster localization variant,allele
+WBPhenotype:0000673,brood size variant,allele
+WBPhenotype:0000674,slow development,allele
+WBPhenotype:0000675,zygotic lethal,allele
+WBPhenotype:0000676,growth rate variant,rnai
+WBPhenotype:0000677,chemosensation defective,allele
+WBPhenotype:0000679,transgene subcellular localization variant,rnai
+WBPhenotype:0000680,aldicarb response variant,allele
+WBPhenotype:0000681,DMPP response variant,allele
+WBPhenotype:0000682,feminization of germline,allele
+WBPhenotype:0000683,masculinization of germline,rnai
+WBPhenotype:0000684,fewer germ cells,rnai
+WBPhenotype:0000685,larval growth slow,rnai
+WBPhenotype:0000686,organism ionizing radiation response variant,rnai
+WBPhenotype:0000687,feminization of XX and XO animals,rnai
+WBPhenotype:0000688,sterile,allele
+WBPhenotype:0000689,maternal sterile,rnai
+WBPhenotype:0000690,gonad migration variant,allele
+WBPhenotype:0000691,gonad development variant,rnai
+WBPhenotype:0000692,male sterile,allele
+WBPhenotype:0000693,male sperm fertilization defect,allele
+WBPhenotype:0000694,hermaphrodite sterile,rnai
+WBPhenotype:0000695,vulva morphology variant,allele
+WBPhenotype:0000696,everted vulva,rnai
+WBPhenotype:0000697,protruding vulva,allele
+WBPhenotype:0000698,vulvaless,allele
+WBPhenotype:0000699,vulva development variant,allele
+WBPhenotype:0000700,multivulva,rnai
+WBPhenotype:0000701,epithelial development variant,rnai
+WBPhenotype:0000702,epithelial cell fusion failure,allele
+WBPhenotype:0000703,epithelial morphology variant,rnai
+WBPhenotype:0000704,excretory canal morphology variant,rnai
+WBPhenotype:0000705,intestinal cell development variant,rnai
+WBPhenotype:0000706,gut granule biogenesis reduced,allele
+WBPhenotype:0000707,pharyngeal development variant,rnai
+WBPhenotype:0000708,intestinal development variant,rnai
+WBPhenotype:0000709,pharyngeal morphology variant,rnai
+WBPhenotype:0000710,intestinal morphology variant,rnai
+WBPhenotype:0000711,organism hypersensitive ionizing radiation,rnai
+WBPhenotype:0000712,germ cell ionizing radiation response variant,rnai
+WBPhenotype:0000715,muscle excess,allele
+WBPhenotype:0000716,muscle cell attachment variant,rnai
+WBPhenotype:0000717,gene expression variant,rnai
+WBPhenotype:0000718,dosage compensation variant,allele
+WBPhenotype:0000722,nucleolus variant,allele
+WBPhenotype:0000724,protein secretion variant,rnai
+WBPhenotype:0000725,lipid metabolism variant,rnai
+WBPhenotype:0000727,enzyme activity variant,allele
+WBPhenotype:0000728,exocytosis variant,allele
+WBPhenotype:0000729,cell death variant,rnai
+WBPhenotype:0000730,apoptosis variant,allele
+WBPhenotype:0000731,germ cell hypersensitive ionizing radiation,rnai
+WBPhenotype:0000732,DNA metabolism variant,rnai
+WBPhenotype:0000734,hypodermal cell physiology variant,rnai
+WBPhenotype:0000735,endoreduplication of hypodermal nuclei variant,rnai
+WBPhenotype:0000736,autophagy variant,allele
+WBPhenotype:0000737,germ cell resistant ionizing radiation,allele
+WBPhenotype:0000738,organism environmental stimulus response variant,allele
+WBPhenotype:0000739,DNA damage response variant,allele
+WBPhenotype:0000740,cell cycle variant,rnai
+WBPhenotype:0000741,DNA damage checkpoint variant,rnai
+WBPhenotype:0000742,DNA recombination variant,allele
+WBPhenotype:0000743,RNAi response variant,rnai
+WBPhenotype:0000744,transgene induced cosuppression variant,rnai
+WBPhenotype:0000745,transposon silencing variant,rnai
+WBPhenotype:0000746,cell division variant,rnai
+WBPhenotype:0000747,pharyngeal contraction defective,allele
+WBPhenotype:0000748,asymmetric cell division defective early emb,rnai
+WBPhenotype:0000749,embryonic development variant,allele
+WBPhenotype:0000750,larval development variant,rnai
+WBPhenotype:0000752,L2 larval development variant,allele
+WBPhenotype:0000755,L1 L2 molt defect,rnai
+WBPhenotype:0000758,L4 adult molt defect,rnai
+WBPhenotype:0000759,spindle defective early emb,rnai
+WBPhenotype:0000760,spindle orientation defective early emb,rnai
+WBPhenotype:0000761,spindle position orientation defective early emb,rnai
+WBPhenotype:0000762,spindle position defective early emb,rnai
+WBPhenotype:0000764,embryonic cell organization biogenesis variant,rnai
+WBPhenotype:0000765,spindle elongation integrity defective early emb,rnai
+WBPhenotype:0000766,centrosome pair and associated pronuclear rotation variant,rnai
+WBPhenotype:0000767,integrity of membranous organelles defective early emb,rnai
+WBPhenotype:0000768,cytoplasmic structure defective early emb,allele
+WBPhenotype:0000769,cytoplasmic appearance defective early emb,rnai
+WBPhenotype:0000770,embryonic cell morphology variant,rnai
+WBPhenotype:0000771,centrosome attachment defective early emb,rnai
+WBPhenotype:0000772,sister chromatid segregation defective early emb,rnai
+WBPhenotype:0000773,chromosome segregation variant,rnai
+WBPhenotype:0000774,gametogenesis variant,allele
+WBPhenotype:0000775,meiosis variant,rnai
+WBPhenotype:0000776,passage through meiosis defective early emb,rnai
+WBPhenotype:0000777,polar body extrusion defective early emb,rnai
+WBPhenotype:0000778,feeding inefficient,allele
+WBPhenotype:0000779,late embryonic arrest,rnai
+WBPhenotype:0000780,shaker,allele
+WBPhenotype:0000781,body wall muscle thin filament variant,allele
+WBPhenotype:0000782,body wall muscle thick filament variant,rnai
+WBPhenotype:0000783,M line absent,allele
+WBPhenotype:0000784,male fertility variant,allele
+WBPhenotype:0000787,posterior pale,allele
+WBPhenotype:0000792,anterior body morphology variant,rnai
+WBPhenotype:0000793,posterior body morphology variant,allele
+WBPhenotype:0000794,posterior body thin,allele
+WBPhenotype:0000795,body axis behavior variant,allele
+WBPhenotype:0000796,posterior body uncoordinated,allele
+WBPhenotype:0000800,posterior region development variant,rnai
+WBPhenotype:0000802,dorsal region development variant,rnai
+WBPhenotype:0000803,head development variant,allele
+WBPhenotype:0000805,tail development variant,allele
+WBPhenotype:0000806,hermaphrodite fertility variant,allele
+WBPhenotype:0000811,epithelial cell development variant,rnai
+WBPhenotype:0000812,germ cell development variant,rnai
+WBPhenotype:0000813,gland cell development variant,allele
+WBPhenotype:0000815,muscle cell development variant,allele
+WBPhenotype:0000816,neuron development variant,rnai
+WBPhenotype:0000817,uterine vulval cell development variant,allele
+WBPhenotype:0000818,adult behavior variant,allele
+WBPhenotype:0000820,embryonic behavior variant,rnai
+WBPhenotype:0000822,sex determination variant,allele
+WBPhenotype:0000823,germline proliferation variant,rnai
+WBPhenotype:0000824,embryonic cell lineage variant,allele
+WBPhenotype:0000825,postembryonic cell lineage variant,rnai
+WBPhenotype:0000827,V lineages variant,rnai
+WBPhenotype:0000828,T lineages variant,rnai
+WBPhenotype:0000829,Q lineage variant,allele
+WBPhenotype:0000830,B lineage variant,allele
+WBPhenotype:0000832,C lineage variant,allele
+WBPhenotype:0000833,U lineage variant,allele
+WBPhenotype:0000834,E lineage variant,rnai
+WBPhenotype:0000835,F lineage variant,allele
+WBPhenotype:0000836,gonadal lineage variant,allele
+WBPhenotype:0000837,hermaphrodite gonadal lineage variant,rnai
+WBPhenotype:0000839,Z1 hermaphrodite lineage variant,allele
+WBPhenotype:0000840,Z4 hermaphrodite lineage variant,allele
+WBPhenotype:0000843,male mating efficiency reduced,allele
+WBPhenotype:0000844,serotonin induced pumping variant,rnai
+WBPhenotype:0000845,levamisole response variant,rnai
+WBPhenotype:0000846,presynaptic region physiology variant,rnai
+WBPhenotype:0000847,presynaptic component localization variant,allele
+WBPhenotype:0000848,developmental delay,rnai
+WBPhenotype:0000850,touch resistant anterior body,allele
+WBPhenotype:0000851,ciliated neuron physiology variant,allele
+WBPhenotype:0000852,coelomocyte development variant,allele
+WBPhenotype:0000853,intraflagellar transport variant,allele
+WBPhenotype:0000854,intraflagellar transport defective,allele
+WBPhenotype:0000857,excretory cell development variant,allele
+WBPhenotype:0000858,excretory duct cell development variant,rnai
+WBPhenotype:0000859,excretory socket cell development variant,allele
+WBPhenotype:0000860,nonstriated muscle development variant,allele
+WBPhenotype:0000861,body wall muscle development variant,allele
+WBPhenotype:0000862,bloated,allele
+WBPhenotype:0000863,male fertility reduced,rnai
+WBPhenotype:0000864,early elongation arrest,allele
+WBPhenotype:0000866,germ cell arrest,rnai
+WBPhenotype:0000867,embryonic arrest,rnai
+WBPhenotype:0000868,paralyzed body,allele
+WBPhenotype:0000876,organism osmotic stress response variant,allele
+WBPhenotype:0000877,amphid sheath cell development variant,allele
+WBPhenotype:0000878,chemosensory neuron development variant,allele
+WBPhenotype:0000879,telomere length regulation variant,allele
+WBPhenotype:0000880,axon development variant,allele
+WBPhenotype:0000881,cilia mislocalized,allele
+WBPhenotype:0000882,dendrite development variant,rnai
+WBPhenotype:0000883,nerve ring development variant,allele
+WBPhenotype:0000884,AWB morphology variant,allele
+WBPhenotype:0000885,engulfment variant,rnai
+WBPhenotype:0000886,nematode phenotype,allele
+WBPhenotype:0000888,male behavior variant,allele
+WBPhenotype:0000889,sexually dimorphic physiology variant,allele
+WBPhenotype:0000892,hermaphrodite germline proliferation variant,rnai
+WBPhenotype:0000893,male germline proliferation variant,rnai
+WBPhenotype:0000894,germ cell differentiation variant,rnai
+WBPhenotype:0000898,blast cell morphology variant,allele
+WBPhenotype:0000899,epithelial cell morphology variant,allele
+WBPhenotype:0000900,germ cell morphology variant,rnai
+WBPhenotype:0000901,gland cell morphology variant,allele
+WBPhenotype:0000902,intestinal cell morphology variant,allele
+WBPhenotype:0000904,muscle cell morphology variant,allele
+WBPhenotype:0000905,neuron morphology variant,allele
+WBPhenotype:0000907,anus morphology variant,allele
+WBPhenotype:0000910,rectal morphology variant,rnai
+WBPhenotype:0000911,coelomocyte morphology variant,allele
+WBPhenotype:0000913,basal lamina morphology variant,allele
+WBPhenotype:0000915,pale adult,rnai
+WBPhenotype:0000916,excretory cell morphology variant,allele
+WBPhenotype:0000917,excretory duct cell morphology variant,allele
+WBPhenotype:0000923,nonstriated muscle morphology variant,rnai
+WBPhenotype:0000924,striated muscle morphology variant,rnai
+WBPhenotype:0000925,sex muscle morphology variant,allele
+WBPhenotype:0000926,body wall muscle morphology variant,rnai
+WBPhenotype:0000928,male physiology variant,allele
+WBPhenotype:0000930,sexually dimorphic development variant,allele
+WBPhenotype:0000932,bisphenol A hypersensitive,allele
+WBPhenotype:0000933,MS lineage variant,allele
+WBPhenotype:0000934,developmental morphology variant,rnai
+WBPhenotype:0000935,D lineage variant,allele
+WBPhenotype:0000938,male V lineages variant,allele
+WBPhenotype:0000939,male T lineages variant,allele
+WBPhenotype:0000942,accessory cell development variant,allele
+WBPhenotype:0000944,neurite development variant,allele
+WBPhenotype:0000948,cuticle morphology variant,rnai
+WBPhenotype:0000949,pseudocoelom morphology variant,rnai
+WBPhenotype:0000951,socket cell development variant,allele
+WBPhenotype:0000952,anterior ganglion development variant,allele
+WBPhenotype:0000961,pattern of transgene expression variant,rnai
+WBPhenotype:0000962,level of transgene expression variant,allele
+WBPhenotype:0000963,male pigmentation variant,allele
+WBPhenotype:0000964,DMPP resistant,allele
+WBPhenotype:0000965,somatic cell death variant,allele
+WBPhenotype:0000966,germline mortal,allele
+WBPhenotype:0000968,tail spike variant,allele
+WBPhenotype:0000970,embryonic pigmentation variant,rnai
+WBPhenotype:0000972,neuronal sheath cell morphology variant,allele
+WBPhenotype:0000976,ventral cord patterning variant,rnai
+WBPhenotype:0000977,somatic gonad morphology variant,allele
+WBPhenotype:0000978,spermatheca physiology variant,rnai
+WBPhenotype:0000979,spermatheca dilation defective,rnai
+WBPhenotype:0000980,pharyngeal contraction variant,allele
+WBPhenotype:0000981,spermatocyte meiosis variant,rnai
+WBPhenotype:0000982,spermatid maturation variant,allele
+WBPhenotype:0000983,fertilization defective,allele
+WBPhenotype:0000987,germ cell physiology variant,allele
+WBPhenotype:0000988,gland cell physiology variant,allele
+WBPhenotype:0000994,intestinal contractions variant,rnai
+WBPhenotype:0000996,expulsion defective,allele
+WBPhenotype:0000997,cryophilic,allele
+WBPhenotype:0000998,thermophilic,allele
+WBPhenotype:0000999,athermotactic,allele
+WBPhenotype:0001003,L4 lethal,rnai
+WBPhenotype:0001004,pharyngeal relaxation variant,allele
+WBPhenotype:0001005,backward locomotion variant,allele
+WBPhenotype:0001006,pharyngeal pumping rate variant,allele
+WBPhenotype:0001010,clear,rnai
+WBPhenotype:0001011,complex phenotype early emb,allele
+WBPhenotype:0001012,organism pathogen response variant,allele
+WBPhenotype:0001013,pathogen susceptibility increased,rnai
+WBPhenotype:0001014,pathogen resistance increased,rnai
+WBPhenotype:0001015,developmental growth variant,allele
+WBPhenotype:0001016,larval growth variant,rnai
+WBPhenotype:0001017,adult growth variant,allele
+WBPhenotype:0001018,cytokinesis variant emb,rnai
+WBPhenotype:0001019,mid larval arrest,allele
+WBPhenotype:0001020,embryonic lethal late emb,rnai
+WBPhenotype:0001021,male sexual development variant,allele
+WBPhenotype:0001022,hermaphrodite sexual development variant,allele
+WBPhenotype:0001024,male morphology variant,allele
+WBPhenotype:0001025,hermaphrodite morphology variant,allele
+WBPhenotype:0001026,nuclear morphology variation early emb,allele
+WBPhenotype:0001027,nuclear position defective early emb,rnai
+WBPhenotype:0001028,nuclear appearance variant,rnai
+WBPhenotype:0001029,patchy coloration,rnai
+WBPhenotype:0001030,pronuclear envelope defective early emb,allele
+WBPhenotype:0001031,pronuclear migration reduced early emb,rnai
+WBPhenotype:0001033,proximal germ cell proliferation variant,rnai
+WBPhenotype:0001034,pronuclear nuclear appearance defective early emb,rnai
+WBPhenotype:0001035,nuclear appearance number defective early emb,rnai
+WBPhenotype:0001036,sterile F1,rnai
+WBPhenotype:0001037,sterile progeny,rnai
+WBPhenotype:0001038,tumorous germline,allele
+WBPhenotype:0001040,chemosensory response variant,allele
+WBPhenotype:0001041,meiosis defective early emb,rnai
+WBPhenotype:0001042,neuron function reduced,allele
+WBPhenotype:0001043,interphase entry defective early emb,rnai
+WBPhenotype:0001044,cortical dynamics defective early emb,rnai
+WBPhenotype:0001045,sporadic pumping,allele
+WBPhenotype:0001046,pharyngeal muscle morphology variant,allele
+WBPhenotype:0001048,odorant chemosensory response variant,allele
+WBPhenotype:0001049,chemosensory behavior variant,allele
+WBPhenotype:0001055,bromide chemotaxis defective,allele
+WBPhenotype:0001056,iodide chemotaxis defective,allele
+WBPhenotype:0001057,lithium chemotaxis defective,allele
+WBPhenotype:0001058,potassium chemotaxis defective,allele
+WBPhenotype:0001059,magnesium chemotaxis defective,allele
+WBPhenotype:0001060,AWC odorant chemotaxis defective,allele
+WBPhenotype:0001061,AWA odorant chemotaxis defective,allele
+WBPhenotype:0001062,late paralysis arrested elongation two fold,allele
+WBPhenotype:0001063,egg laying phases variant,allele
+WBPhenotype:0001065,fewer egg laying events during active,rnai
+WBPhenotype:0001066,inactive phase variant,allele
+WBPhenotype:0001068,egg laying serotonin resistant,allele
+WBPhenotype:0001072,response to food variant,rnai
+WBPhenotype:0001073,egg laying response to food variant,allele
+WBPhenotype:0001075,vulval muscle physiology variant,rnai
+WBPhenotype:0001077,chromosome segregation variant karyomeres early emb,rnai
+WBPhenotype:0001078,cytokinesis defective early emb,rnai
+WBPhenotype:0001079,cytoplasmic dynamics defective early emb,rnai
+WBPhenotype:0001080,excessive blebbing early emb,rnai
+WBPhenotype:0001082,large cytoplasmic granules early emb,rnai
+WBPhenotype:0001083,multiple cytoplasmic cavities early emb,rnai
+WBPhenotype:0001084,sodium chloride chemotaxis defective,allele
+WBPhenotype:0001085,butanone chemotaxis defective,allele
+WBPhenotype:0001086,trimethylthiazole chemotaxis defective,allele
+WBPhenotype:0001090,thermotolerance reduced,rnai
+WBPhenotype:0001092,larval defecation defect,allele
+WBPhenotype:0001093,intestinal physiology variant,rnai
+WBPhenotype:0001095,organism high sodium chloride hypersensitive,rnai
+WBPhenotype:0001096,protrusion at vulval region,allele
+WBPhenotype:0001097,premature spermatocyte germ cell differentiation,allele
+WBPhenotype:0001098,no rectum,allele
+WBPhenotype:0001099,nose twisted,allele
+WBPhenotype:0001100,early embryonic lethal,rnai
+WBPhenotype:0001101,egg laying response to drug variant,allele
+WBPhenotype:0001102,mitotic spindle defective early emb,rnai
+WBPhenotype:0001103,spindle absent early emb,rnai
+WBPhenotype:0001104,P0 spindle absent early emb,rnai
+WBPhenotype:0001105,P0 spindle position abnormal,rnai
+WBPhenotype:0001106,spindle orientation variant AB or P1 early emb,rnai
+WBPhenotype:0001107,spindle rotation defective early emb,rnai
+WBPhenotype:0001108,P0 spindle rotation failure early emb,rnai
+WBPhenotype:0001109,P0 spindle rotation delayed early emb,rnai
+WBPhenotype:0001110,aster defective early emb,rnai
+WBPhenotype:0001112,aster AB resembles P1 aster early emb,rnai
+WBPhenotype:0001113,P1 aster defective early emb,rnai
+WBPhenotype:0001114,cell cycle defective early emb,allele
+WBPhenotype:0001115,cell cycle timing defective early emb,rnai
+WBPhenotype:0001117,cell cell contacts abnormal early emb,rnai
+WBPhenotype:0001118,cell position defective early emb,allele
+WBPhenotype:0001119,cell cycle slow early emb,rnai
+WBPhenotype:0001120,relative cell cycle timing defective early emb,rnai
+WBPhenotype:0001121,exaggerated asynchrony early emb,rnai
+WBPhenotype:0001122,reversed asynchrony early emb,rnai
+WBPhenotype:0001123,synchronous second division early emb,rnai
+WBPhenotype:0001124,ABa ABp EMS synchronous division early emb,rnai
+WBPhenotype:0001125,P2 EMS synchronous division early emb,rnai
+WBPhenotype:0001126,cell cell contacts abnormal in four cell embryo,rnai
+WBPhenotype:0001127,EMS anterior extension fails early emb,rnai
+WBPhenotype:0001128,EMS anterior extension extreme early emb,rnai
+WBPhenotype:0001129,cleavage furrow defective early emb,rnai
+WBPhenotype:0001130,cytokinesis fails early emb,rnai
+WBPhenotype:0001131,loose mitotic furrow early emb,rnai
+WBPhenotype:0001133,division axis defective,rnai
+WBPhenotype:0001134,Aba ABp division axis defective early emb,rnai
+WBPhenotype:0001135,embryonic morphology defective early emb,rnai
+WBPhenotype:0001136,embryonic morphology variant,rnai
+WBPhenotype:0001137,embryos small early emb,rnai
+WBPhenotype:0001138,nucleus defective early emb,rnai
+WBPhenotype:0001139,nuclear envelope assembly variant early emb,allele
+WBPhenotype:0001140,neuron migration variant,allele
+WBPhenotype:0001141,nucleus reforms cell division remnant early emb,rnai
+WBPhenotype:0001142,nuclear number defective early emb,rnai
+WBPhenotype:0001143,multiple nuclei early emb,rnai
+WBPhenotype:0001144,polar body number size early emb,rnai
+WBPhenotype:0001145,polar body number defective early emb,rnai
+WBPhenotype:0001146,polar body size defective early emb,rnai
+WBPhenotype:0001147,polar body defective early emb,rnai
+WBPhenotype:0001148,polar body reabsorbed early emb,rnai
+WBPhenotype:0001150,polar body reabsorbed one two early emb,rnai
+WBPhenotype:0001151,pronucleus centrosomes defective early emb,rnai
+WBPhenotype:0001152,pronuclear migration defective early emb,allele
+WBPhenotype:0001153,pronuclear migration failure early emb,rnai
+WBPhenotype:0001154,paternal pronucleus migrates early emb,rnai
+WBPhenotype:0001155,pronuclei meet centrally early emb,rnai
+WBPhenotype:0001156,pronuclear size defective early emb,rnai
+WBPhenotype:0001157,pronuclear breakdown defective early emb,rnai
+WBPhenotype:0001158,pronuclear breakdown asynchronous early emb,rnai
+WBPhenotype:0001159,pronuclear morphology defective early emb,rnai
+WBPhenotype:0001161,maternal pronucleus indistinct early emb,rnai
+WBPhenotype:0001162,pronuclear number defective early emb,rnai
+WBPhenotype:0001163,pronucleus formation failure early emb,allele
+WBPhenotype:0001164,excess pronucleus early emb,rnai
+WBPhenotype:0001165,excess maternal pronucleus early emb,rnai
+WBPhenotype:0001166,excess paternal pronucleus variant centrosome early emb,rnai
+WBPhenotype:0001167,pseudocleavage defective early emb,rnai
+WBPhenotype:0001168,pseudocleavage absent early emb,rnai
+WBPhenotype:0001169,pseudocleavage exaggerated early emb,rnai
+WBPhenotype:0001170,sterile F0 48 hours post injection,rnai
+WBPhenotype:0001171,shortened life span,rnai
+WBPhenotype:0001172,programmed cell death variant,allele
+WBPhenotype:0001173,non apoptotic cell death variant,allele
+WBPhenotype:0001174,chromosome disjunction defective,rnai
+WBPhenotype:0001175,high incidence male progeny,rnai
+WBPhenotype:0001176,one cell shape defective early emb,rnai
+WBPhenotype:0001177,embryo osmotic pressure sensitive early emb,rnai
+WBPhenotype:0001178,egg integrity defective early emb,allele
+WBPhenotype:0001180,accumulated germline cell corpses,rnai
+WBPhenotype:0001181,accumulated somatic cell corpses,allele
+WBPhenotype:0001182,fat content variant,rnai
+WBPhenotype:0001183,fat content reduced,rnai
+WBPhenotype:0001184,fat content increased,rnai
+WBPhenotype:0001185,embryonic developmental delay early emb,allele
+WBPhenotype:0001186,embryo delayed at pronuclear contact early emb,rnai
+WBPhenotype:0001190,pharyngeal physiology variant,allele
+WBPhenotype:0001191,pharyngeal muscle physiology variant,allele
+WBPhenotype:0001193,disorganized pharyngeal EPG,allele
+WBPhenotype:0001194,extra and ectopic neuron,allele
+WBPhenotype:0001196,synchronization calcium signal defective pharynx,allele
+WBPhenotype:0001198,somatic sheath physiology variant,rnai
+WBPhenotype:0001199,gonad sheath contractions variant,rnai
+WBPhenotype:0001200,gonad sheath contraction rate reduced,rnai
+WBPhenotype:0001201,no expulsion defecation,allele
+WBPhenotype:0001202,nicotine hypersensitive,rnai
+WBPhenotype:0001203,nicotine resistant,allele
+WBPhenotype:0001204,muscimol resistant,allele
+WBPhenotype:0001206,movement variant,allele
+WBPhenotype:0001207,protein signaling variant,allele
+WBPhenotype:0001208,RNAi resistant,allele
+WBPhenotype:0001209,skiddy,allele
+WBPhenotype:0001211,cuticle integrity variant,rnai
+WBPhenotype:0001212,cuticle fragile,allele
+WBPhenotype:0001213,locomotion reduced,allele
+WBPhenotype:0001215,germ cell mitosis variant,rnai
+WBPhenotype:0001216,meiosis metaphase to anaphase transition block,rnai
+WBPhenotype:0001217,germ cell mitosis metaphase to anaphase transition block,allele
+WBPhenotype:0001218,cell death sexually dimorphic variant,allele
+WBPhenotype:0001219,cell survival sexually dimorphic increased,allele
+WBPhenotype:0001220,cell death sexually dimorphic increased,allele
+WBPhenotype:0001221,nose touch defective,allele
+WBPhenotype:0001222,transposon mutator,allele
+WBPhenotype:0001223,germline RNAi resistant,allele
+WBPhenotype:0001224,axon outgrowth variant,allele
+WBPhenotype:0001225,phasmid socket absent,allele
+WBPhenotype:0001226,commissure variant,allele
+WBPhenotype:0001227,commissure absent,allele
+WBPhenotype:0001228,alae absent,allele
+WBPhenotype:0001230,anterior cell migration defective,rnai
+WBPhenotype:0001231,intraflagellar transport accelerated,allele
+WBPhenotype:0001232,serotonin response variant,allele
+WBPhenotype:0001233,DAPI staining variant,rnai
+WBPhenotype:0001234,nonanone chemotaxis defective,allele
+WBPhenotype:0001235,cell division polarity variant,rnai
+WBPhenotype:0001236,transgene expression increased,rnai
+WBPhenotype:0001239,mating latency increased,allele
+WBPhenotype:0001240,male tail sensory ray differentiation variant,allele
+WBPhenotype:0001242,intraflagellar transport slow,allele
+WBPhenotype:0001246,no transport distal segment cilia,allele
+WBPhenotype:0001247,anterograde transport defective,allele
+WBPhenotype:0001248,wing cilia morphology variant,allele
+WBPhenotype:0001249,amphid channel cilia morphology variant,allele
+WBPhenotype:0001251,amphid channel axoneme short,allele
+WBPhenotype:0001254,amphid channel cilia bulbous,allele
+WBPhenotype:0001255,wing cilia bulbous,allele
+WBPhenotype:0001256,DNA damage induced focus formation variant,allele
+WBPhenotype:0001257,cross link induced focus formation variant,allele
+WBPhenotype:0001258,RNAi enhanced,allele
+WBPhenotype:0001259,hermaphrodite fertility reduced,rnai
+WBPhenotype:0001260,oocyte morphology variant,rnai
+WBPhenotype:0001261,pale,rnai
+WBPhenotype:0001262,vulval development incomplete,allele
+WBPhenotype:0001263,peroxisome morphology variant,allele
+WBPhenotype:0001264,peroxisome physiology variant,rnai
+WBPhenotype:0001265,head movement variant,allele
+WBPhenotype:0001266,genetic pathway activation variant,allele
+WBPhenotype:0001267,induced contraction rate variant,rnai
+WBPhenotype:0001268,induced cell death variant,allele
+WBPhenotype:0001270,pathogen induced cell death reduced,allele
+WBPhenotype:0001271,pathogen induced death increased,rnai
+WBPhenotype:0001272,vulval cell induction variant,allele
+WBPhenotype:0001273,organism heat response variant,rnai
+WBPhenotype:0001274,organism heat hypersensitive,allele
+WBPhenotype:0001275,increased genetic pathway signal,allele
+WBPhenotype:0001276,ectopic expression transgene,rnai
+WBPhenotype:0001277,transformer,allele
+WBPhenotype:0001278,transgene expression reduced,rnai
+WBPhenotype:0001279,transgene expression reduced male,rnai
+WBPhenotype:0001280,transgene expression reduced hermaphrodite,rnai
+WBPhenotype:0001281,stuffed pharynx,rnai
+WBPhenotype:0001282,mitochondrial metabolism variant,rnai
+WBPhenotype:0001283,organelle metabolism variant,rnai
+WBPhenotype:0001284,coenzyme Q depleted,rnai
+WBPhenotype:0001285,induced pharyngeal pumping variant,allele
+WBPhenotype:0001286,food suppressed pumping variant,rnai
+WBPhenotype:0001289,acetylcholinesterase inhibitor resistant,allele
+WBPhenotype:0001291,social behavior variant,allele
+WBPhenotype:0001292,body wall muscle physiology variant,rnai
+WBPhenotype:0001294,head bent,allele
+WBPhenotype:0001295,body twisted,allele
+WBPhenotype:0001296,lannate resistant,allele
+WBPhenotype:0001297,male tail development variant,allele
+WBPhenotype:0001298,hindgut morphology variant,allele
+WBPhenotype:0001299,cell division variant male,allele
+WBPhenotype:0001300,germ cell cytoplasmic morphology variant,allele
+WBPhenotype:0001301,P granule abnormal,rnai
+WBPhenotype:0001302,P granule localization defective,rnai
+WBPhenotype:0001303,extra and ectopic cell,rnai
+WBPhenotype:0001304,hindgut damaged,allele
+WBPhenotype:0001305,hook morphology variant,allele
+WBPhenotype:0001306,male reproductive system morphology variant,allele
+WBPhenotype:0001307,reduced body bend,allele
+WBPhenotype:0001308,weak pumping,allele
+WBPhenotype:0001309,amplitude of sinusoidal movement decreased,allele
+WBPhenotype:0001310,neuron positioning variant,allele
+WBPhenotype:0001312,neuron number variant,rnai
+WBPhenotype:0001314,vulval muscle variant,allele
+WBPhenotype:0001315,electrophysiology phenotype,allele
+WBPhenotype:0001316,evoked postsynaptic current variant,allele
+WBPhenotype:0001317,evoked postsynaptic amplitude reduced,allele
+WBPhenotype:0001318,endogenous synaptic events variant,allele
+WBPhenotype:0001319,endogenous synaptic event frequency reduced,allele
+WBPhenotype:0001320,endogenous synaptic amplitude variant,allele
+WBPhenotype:0001321,presynaptic region morphology variant,allele
+WBPhenotype:0001323,vesicle morphology variant,allele
+WBPhenotype:0001324,cell ionizing radiation response variant,allele
+WBPhenotype:0001325,backing not sustained,allele
+WBPhenotype:0001327,cell gamma ray hypersensitive,rnai
+WBPhenotype:0001328,posterior body dumpy,rnai
+WBPhenotype:0001329,curly,allele
+WBPhenotype:0001330,egg laying event infrequent,allele
+WBPhenotype:0001331,motor neuron morphology variant,allele
+WBPhenotype:0001332,vesicle number variant,rnai
+WBPhenotype:0001333,neuron cell body absent misplaced,rnai
+WBPhenotype:0001334,hermaphrodite sex muscle morphology variant,allele
+WBPhenotype:0001336,male mating efficiency eliminated,allele
+WBPhenotype:0001339,egg laying levamisole resistant,allele
+WBPhenotype:0001340,egg laying imipramine resistant,allele
+WBPhenotype:0001341,egg laying phentolamine resistant,allele
+WBPhenotype:0001342,egg laying imipramine hypersensitive,allele
+WBPhenotype:0001343,meiotic spindle defective early emb,rnai
+WBPhenotype:0001344,organelle organization biogenesis variant,allele
+WBPhenotype:0001345,cytoskeleton organization biogenesis variant,allele
+WBPhenotype:0001346,actin cytoskeleton dynamics phenotype,rnai
+WBPhenotype:0001347,intestinal calcium signaling variant,rnai
+WBPhenotype:0001348,chromosome morphology variant,rnai
+WBPhenotype:0001349,protein phosphorylation variant,rnai
+WBPhenotype:0001350,protein phosphorylation increased,rnai
+WBPhenotype:0001351,protein phosphorylation reduced,allele
+WBPhenotype:0001352,endoplasmic reticulum metabolism variant,rnai
+WBPhenotype:0001353,centration defective early emb,allele
+WBPhenotype:0001354,actin cytoskeleton filament morphology phenotype,rnai
+WBPhenotype:0001355,gonad morphology variant,allele
+WBPhenotype:0001357,male gonad morphology variant,allele
+WBPhenotype:0001360,hermaphrodite self sterile,allele
+WBPhenotype:0001361,chromosome condensation variant,rnai
+WBPhenotype:0001362,chromosome condensation failure,rnai
+WBPhenotype:0001363,head cavity,rnai
+WBPhenotype:0001364,male fan morphology variant,allele
+WBPhenotype:0001365,male bursa development variant,allele
+WBPhenotype:0001366,male fan development variant,allele
+WBPhenotype:0001368,spermatheca absent,allele
+WBPhenotype:0001369,protein interaction variant,rnai
+WBPhenotype:0001370,protein protein interaction variant,rnai
+WBPhenotype:0001371,protein RNA interaction variant,allele
+WBPhenotype:0001372,protein DNA interaction variant,rnai
+WBPhenotype:0001373,protein RNA interaction abolished,allele
+WBPhenotype:0001374,pronuclear nuclear appearance variant emb,allele
+WBPhenotype:0001375,transgene expression undetectable,rnai
+WBPhenotype:0001376,transgene expression undetectable cell specific,allele
+WBPhenotype:0001377,break induced focus formation variant,allele
+WBPhenotype:0001378,mitotic chromosome segregation variant,allele
+WBPhenotype:0001379,organism toxic chemical response variant,rnai
+WBPhenotype:0001380,anoxia hypersensitive,allele
+WBPhenotype:0001381,anoxia resistant,allele
+WBPhenotype:0001382,protein modification variant,allele
+WBPhenotype:0001383,protein methylation variant,rnai
+WBPhenotype:0001384,fertility reduced,allele
+WBPhenotype:0001385,precocious oogenesis,rnai
+WBPhenotype:0001386,fertilization defective hermaphrodite,allele
+WBPhenotype:0001387,fertilization defect male,allele
+WBPhenotype:0001388,organism hypersensitive gamma irradiation,rnai
+WBPhenotype:0001390,cell UV hypersensitive,allele
+WBPhenotype:0001391,gamma ray induced apoptosis increased,allele
+WBPhenotype:0001392,cell cycle arrest,rnai
+WBPhenotype:0001393,cell acidification variant,allele
+WBPhenotype:0001394,cell acidification defective,rnai
+WBPhenotype:0001395,body vacuole,allele
+WBPhenotype:0001396,pumping absent,allele
+WBPhenotype:0001397,necrotic cell death increased,rnai
+WBPhenotype:0001398,neurite morphology variant,allele
+WBPhenotype:0001399,cell membrane morphology variant,rnai
+WBPhenotype:0001400,level of protein expression variant,rnai
+WBPhenotype:0001401,mitochondria morphology variant,allele
+WBPhenotype:0001402,connected mitochondria,allele
+WBPhenotype:0001403,antibody subcellular localization variant,rnai
+WBPhenotype:0001404,ectopic expression antibody,rnai
+WBPhenotype:0001405,protein aggregation variant,rnai
+WBPhenotype:0001407,protein expression reduced cell specific,rnai
+WBPhenotype:0001408,pattern protein expression variant,rnai
+WBPhenotype:0001409,protein expression ectopic,allele
+WBPhenotype:0001410,protein expression absent,rnai
+WBPhenotype:0001411,cuticle carbohydrate surface variant,allele
+WBPhenotype:0001412,alae morphology variant,allele
+WBPhenotype:0001413,bacterially unswollen,allele
+WBPhenotype:0001414,male mating defective,allele
+WBPhenotype:0001415,pathogen adherence variant,allele
+WBPhenotype:0001416,pathogen adherence defect,allele
+WBPhenotype:0001417,organism desiccation response variant,allele
+WBPhenotype:0001418,organism hypersensitive desiccation,allele
+WBPhenotype:0001419,emetine hypersensitive,allele
+WBPhenotype:0001420,biofilm absent head,allele
+WBPhenotype:0001421,endocytic transport variant,allele
+WBPhenotype:0001422,endocytic transport defect,rnai
+WBPhenotype:0001423,coelomocyte physiology variant,allele
+WBPhenotype:0001424,oocyte physiology variant,rnai
+WBPhenotype:0001425,receptor mediated endocytosis defective,rnai
+WBPhenotype:0001426,coelomocyte endocytosis defective,rnai
+WBPhenotype:0001427,cytoplasmic appearance variant,rnai
+WBPhenotype:0001428,intestinal vacuole,rnai
+WBPhenotype:0001429,granules cytoplasm,allele
+WBPhenotype:0001430,lysosome organization biogenesis variant,allele
+WBPhenotype:0001431,pointed tail tip male,allele
+WBPhenotype:0001432,over retracted male tail,allele
+WBPhenotype:0001433,precocious cell fusion,allele
+WBPhenotype:0001434,chemotaxis variant,rnai
+WBPhenotype:0001435,ammonium chloride chemotaxis defective,allele
+WBPhenotype:0001436,nose touch hypersensitive,allele
+WBPhenotype:0001437,octanol chemotaxis hypersensitive,allele
+WBPhenotype:0001438,odorant positive chemotaxis defective,allele
+WBPhenotype:0001441,aqueous positive chemotaxis defective,allele
+WBPhenotype:0001442,sodium acetate chemotaxis defective,allele
+WBPhenotype:0001443,aqueous chemosensory response variant,allele
+WBPhenotype:0001444,aqueous adaptation defective,allele
+WBPhenotype:0001445,sodium acetate adaptation defective,allele
+WBPhenotype:0001446,sodium chloride adaptation defective,allele
+WBPhenotype:0001447,ammonium chloride adaptation defective,allele
+WBPhenotype:0001448,odorant negative chemotaxis defective,allele
+WBPhenotype:0001450,aqueous negative chemotaxis variant,allele
+WBPhenotype:0001452,octanol chemotaxis variant,allele
+WBPhenotype:0001453,high sodium chloride concentration osmotic avoidance variant,allele
+WBPhenotype:0001454,quinine chemotaxis variant,allele
+WBPhenotype:0001461,sodium acetate chemotaxis variant,rnai
+WBPhenotype:0001462,sodium chloride chemotaxis variant,allele
+WBPhenotype:0001468,benzaldehyde chemotaxis variant,allele
+WBPhenotype:0001469,butanone chemotaxis variant,allele
+WBPhenotype:0001470,diacetyl chemotaxis variant,allele
+WBPhenotype:0001472,isoamyl alcohol chemotaxis variant,allele
+WBPhenotype:0001474,pyrazine chemotaxis variant,allele
+WBPhenotype:0001476,anterior body contraction variant,allele
+WBPhenotype:0001477,anterograde transport variant,rnai
+WBPhenotype:0001478,body elongation variant,rnai
+WBPhenotype:0001479,dauer pheromone sensation variant,allele
+WBPhenotype:0001481,thrashing increased,allele
+WBPhenotype:0001482,frequency body bend reduced,allele
+WBPhenotype:0001483,late stage egg laid,allele
+WBPhenotype:0001484,ammonium acetate chemotaxis defective,allele
+WBPhenotype:0001485,ER stress response variant,allele
+WBPhenotype:0001486,unfolded protein accumulation,rnai
+WBPhenotype:0001487,male spicule development variant,allele
+WBPhenotype:0001492,no back end,allele
+WBPhenotype:0001493,VPC cell division precocious,rnai
+WBPhenotype:0001494,distal tip cell migration precocious,allele
+WBPhenotype:0001495,cell division precocious,rnai
+WBPhenotype:0001496,metaphase to anaphase transition defect,allele
+WBPhenotype:0001497,mitotic metaphase to anaphase transition defect,allele
+WBPhenotype:0001498,sperm pseudopod physiology variant,allele
+WBPhenotype:0001499,meiotic chromosome segregation variant,rnai
+WBPhenotype:0001500,pentanedione chemotaxis variant,allele
+WBPhenotype:0001501,odorant discrimination defective,allele
+WBPhenotype:0001502,chemical resistant,rnai
+WBPhenotype:0001503,ventral nerve cord maintenance variant,rnai
+WBPhenotype:0001504,maternal effect sterile,rnai
+WBPhenotype:0001505,spontaneous reversal variant,allele
+WBPhenotype:0001506,spontaneous reversal rate variant,allele
+WBPhenotype:0001507,Bacillus thuringiensis toxin resistant,rnai
+WBPhenotype:0001508,anchor cell fusion defective,allele
+WBPhenotype:0001509,rays missing,allele
+WBPhenotype:0001510,neuronal cell fate specification variant,allele
+WBPhenotype:0001511,linker cell migration variant,rnai
+WBPhenotype:0001512,loss of left right asymmetry,allele
+WBPhenotype:0001513,dense core vesicle exocytosis variant,allele
+WBPhenotype:0001514,synaptic vesicle endocytosis variant,allele
+WBPhenotype:0001515,struts variant,rnai
+WBPhenotype:0001516,helical cuticle,allele
+WBPhenotype:0001517,annulae morphology variant,allele
+WBPhenotype:0001518,biogenic amine physiology variant,allele
+WBPhenotype:0001519,posterior cell migration variant,allele
+WBPhenotype:0001520,posterior neuron migration variant,allele
+WBPhenotype:0001521,body elongation retracted,allele
+WBPhenotype:0001522,spicules protrude,allele
+WBPhenotype:0001523,extracellular matrix variant,rnai
+WBPhenotype:0001524,quiescence variant,allele
+WBPhenotype:0001525,terminal bulb morphology variant,allele
+WBPhenotype:0001526,ciliated neuron morphology variant,allele
+WBPhenotype:0001528,sensillum accessory cell morphology variant,allele
+WBPhenotype:0001530,cephalic sensillum morphology variant,allele
+WBPhenotype:0001531,labial sensillum morphology variant,allele
+WBPhenotype:0001532,inner labial morphology variant,allele
+WBPhenotype:0001533,outer labial morphology variant,allele
+WBPhenotype:0001534,neuronal ECM variant,allele
+WBPhenotype:0001535,deirid sensillum morphology variant,allele
+WBPhenotype:0001536,embryonic cell patterning variant,rnai
+WBPhenotype:0001538,mRNA surveillance defective,rnai
+WBPhenotype:0001539,dauer induction variant,rnai
+WBPhenotype:0001540,dauer lifespan variant,allele
+WBPhenotype:0001541,dauer gonad arrest variant,rnai
+WBPhenotype:0001545,dauer body morphology variant,rnai
+WBPhenotype:0001547,dauer metabolism phenotype,allele
+WBPhenotype:0001551,dauer cuticle variant,rnai
+WBPhenotype:0001552,dauer pharynx morphology variant,rnai
+WBPhenotype:0001561,dauer inner labial sensillum variant,allele
+WBPhenotype:0001565,lysine chemotaxis defective,allele
+WBPhenotype:0001566,ventral enclosure variant,allele
+WBPhenotype:0001567,nuclei enlarged,rnai
+WBPhenotype:0001568,mRNA export variant,allele
+WBPhenotype:0001569,body wall muscle myosin organization defective,rnai
+WBPhenotype:0001570,body wall muscle actin organization defective,rnai
+WBPhenotype:0001571,body wall muscle cell polarization variant,allele
+WBPhenotype:0001572,masculinized,rnai
+WBPhenotype:0001573,nicotine response variant,allele
+WBPhenotype:0001574,ATP levels variant,allele
+WBPhenotype:0001575,ATP levels reduced,rnai
+WBPhenotype:0001576,mitochondria spacing variant,rnai
+WBPhenotype:0001577,mitochondria alignment variant,rnai
+WBPhenotype:0001578,cholinergic agonist resistant,allele
+WBPhenotype:0001580,nuclear envelope breakdown variant,rnai
+WBPhenotype:0001581,X linked gene expression enhanced,allele
+WBPhenotype:0001582,X linked gene expression reduced,allele
+WBPhenotype:0001583,XXX progeny,allele
+WBPhenotype:0001584,chromosome alignment variant,rnai
+WBPhenotype:0001585,asymmetric cell division variant,rnai
+WBPhenotype:0001586,multiple anchor cells,rnai
+WBPhenotype:0001587,actin organization biogenesis phenotype,rnai
+WBPhenotype:0001588,microtubule organization biogenesis variant,rnai
+WBPhenotype:0001589,microtubule nucleation variant,rnai
+WBPhenotype:0001591,microtubule polymerization variant,rnai
+WBPhenotype:0001592,fainter,allele
+WBPhenotype:0001593,transgene silencing variant,allele
+WBPhenotype:0001594,germline transgene silencing variant,rnai
+WBPhenotype:0001595,somatic transgene silencing variant,rnai
+WBPhenotype:0001596,tail bobbed,allele
+WBPhenotype:0001597,muscle missing,rnai
+WBPhenotype:0001599,ouabain resistant,allele
+WBPhenotype:0001602,methiothepin resistant,allele
+WBPhenotype:0001603,cyproheptadine resistant,allele
+WBPhenotype:0001604,mianserin resistant,allele
+WBPhenotype:0001606,ethanol hypersensitive,allele
+WBPhenotype:0001608,enflurane hypersensitive,allele
+WBPhenotype:0001609,isoflurane hypersensitive,allele
+WBPhenotype:0001610,diethyl ether hypersensitive,allele
+WBPhenotype:0001611,halothane hypersensitive,allele
+WBPhenotype:0001612,ethanol resistant,allele
+WBPhenotype:0001613,paralysis response to ethanol resistant,allele
+WBPhenotype:0001617,ethosuximide resistant,allele
+WBPhenotype:0001618,halothane resistant,allele
+WBPhenotype:0001619,isoflurane resistant,allele
+WBPhenotype:0001620,organism oxidative stress response variant,rnai
+WBPhenotype:0001621,organism oxidative stress response hypersensitive,allele
+WBPhenotype:0001622,egg laying serotonin hypersensitive,allele
+WBPhenotype:0001624,male tail curling serotonin resistant,allele
+WBPhenotype:0001625,male tail curling serotonin hypersensitive,allele
+WBPhenotype:0001627,locomotion rate serotonin hypersensitive,allele
+WBPhenotype:0001628,locomotion rate serotonin resistant,allele
+WBPhenotype:0001630,gut obstructed,allele
+WBPhenotype:0001631,nullo X gamete,allele
+WBPhenotype:0001634,organism electrophilic stress hypersensitive,rnai
+WBPhenotype:0001635,excess pharyngeal cells,rnai
+WBPhenotype:0001636,excess intestinal cells,rnai
+WBPhenotype:0001637,no Intestine,rnai
+WBPhenotype:0001639,roaming reduced,allele
+WBPhenotype:0001640,acidification level defective,rnai
+WBPhenotype:0001641,posterior body wall contraction defective,rnai
+WBPhenotype:0001642,cell cleavage variant emb,rnai
+WBPhenotype:0001643,excess hypodermal cells,allele
+WBPhenotype:0001644,protein metabolism variant,rnai
+WBPhenotype:0001645,protein degradation variant,rnai
+WBPhenotype:0001646,no pharynx,allele
+WBPhenotype:0001648,no posterior pharynx,rnai
+WBPhenotype:0001649,Fluorouracil resistant,rnai
+WBPhenotype:0001650,germ cell death response to 5 FU resistant,allele
+WBPhenotype:0001651,growth arrest response to 5 FU resistant,allele
+WBPhenotype:0001652,anchor cell invasion variant,rnai
+WBPhenotype:0001653,cadmium response variant,allele
+WBPhenotype:0001654,cadmium resistant,allele
+WBPhenotype:0001655,cadmium hypersensitive,allele
+WBPhenotype:0001656,distal tip cell development variant,allele
+WBPhenotype:0001657,cell junction variant,rnai
+WBPhenotype:0001658,intercellular junction variant,allele
+WBPhenotype:0001659,spermatheca morphology variant,rnai
+WBPhenotype:0001660,loss of asymmetry ASE,allele
+WBPhenotype:0001661,loss of asymmetry AWC,allele
+WBPhenotype:0001662,spermatheca development variant,allele
+WBPhenotype:0001663,organism oxidative stress resistant,rnai
+WBPhenotype:0001664,X chromosome nondisjunction,allele
+WBPhenotype:0001665,low incidence male progeny,allele
+WBPhenotype:0001666,organism hypersensitive X ray irradiation,allele
+WBPhenotype:0001667,methyl methanesulfonate hypersensitive,allele
+WBPhenotype:0001668,oocyte accumulation,rnai
+WBPhenotype:0001669,presynaptic vesicle number variant,allele
+WBPhenotype:0001670,presynaptic vesicle number reduced,allele
+WBPhenotype:0001671,vesicle organization variant,rnai
+WBPhenotype:0001672,commisure growth variant,rnai
+WBPhenotype:0001673,telomere homeostasis variant,allele
+WBPhenotype:0001674,telomere morphology variant,allele
+WBPhenotype:0001675,male gonad development variant,rnai
+WBPhenotype:0001676,touch receptor cell morphology variant,allele
+WBPhenotype:0001677,stage specific cuticle antigenicity variant,allele
+WBPhenotype:0001678,cuticle physiology variant,allele
+WBPhenotype:0001679,multipolar neuron,allele
+WBPhenotype:0001680,adoption of fused vulval cell fate,rnai
+WBPhenotype:0001681,spindle orientation variant,allele
+WBPhenotype:0001682,organism UV resistant,allele
+WBPhenotype:0001683,spermatogenesis defective hermaphrodite,allele
+WBPhenotype:0001684,synaptic vesicle homeostasis variant,rnai
+WBPhenotype:0001685,postsynaptic region morphology variant,allele
+WBPhenotype:0001687,surface antigenicity variant,allele
+WBPhenotype:0001688,surface coat variant,allele
+WBPhenotype:0001689,surface antigen negative,allele
+WBPhenotype:0001690,constitutive larval display,allele
+WBPhenotype:0001691,germ nuclei rachis,allele
+WBPhenotype:0001692,pheromone induced larval display defective,allele
+WBPhenotype:0001693,male posterior alae,allele
+WBPhenotype:0001694,spermatogenesis to oogenesis switch defective,allele
+WBPhenotype:0001696,biosynthesis variant,rnai
+WBPhenotype:0001697,chondroitin biosynthesis variant,rnai
+WBPhenotype:0001698,heparan sulfate biosynthesis variant,rnai
+WBPhenotype:0001699,localized movement variant,allele
+WBPhenotype:0001700,swimming variant,allele
+WBPhenotype:0001701,spastic locomotion,allele
+WBPhenotype:0001702,directionality variant,allele
+WBPhenotype:0001703,body bend variant,allele
+WBPhenotype:0001704,multiple alae,rnai
+WBPhenotype:0001707,nuclear import defective,rnai
+WBPhenotype:0001708,protein export from nucleus defective,rnai
+WBPhenotype:0001710,rhythmic tolerance to osmotic stress variant,allele
+WBPhenotype:0001711,rhythmic behavior variant,allele
+WBPhenotype:0001712,circadian rhythm behavior variant,allele
+WBPhenotype:0001713,locomotory rhythm variant,allele
+WBPhenotype:0001715,pirouette frequency variant,allele
+WBPhenotype:0001716,forward point velocity variant,allele
+WBPhenotype:0001717,centroid velocity variant,allele
+WBPhenotype:0001719,unfolded protein response variant,rnai
+WBPhenotype:0001720,spermatozoa retro location defective,allele
+WBPhenotype:0001722,pathogen infected pharynx increase,rnai
+WBPhenotype:0001723,pathogen infected pharynx decrease,allele
+WBPhenotype:0001724,tunicamycin hypersensitive,allele
+WBPhenotype:0001725,cellular osmotic stress response variant,rnai
+WBPhenotype:0001726,body length variant,rnai
+WBPhenotype:0001727,body width variant,allele
+WBPhenotype:0001729,mating plug produced,allele
+WBPhenotype:0001731,thermal bias in tracking variant,allele
+WBPhenotype:0001733,pheromone suppressed pumping defective,allele
+WBPhenotype:0001734,starvation suppressed pumping defective,allele
+WBPhenotype:0001735,muscle cell activity variant,allele
+WBPhenotype:0001736,acetate chemotaxis defective,allele
+WBPhenotype:0001737,aqueous compound discrimination defective,allele
+WBPhenotype:0001738,ammonium chemotaxis defective,allele
+WBPhenotype:0001739,aging variant,allele
+WBPhenotype:0001740,organ senescence variant,allele
+WBPhenotype:0001741,spontaneous spicule protraction,allele
+WBPhenotype:0001742,lipid synthesis increased,allele
+WBPhenotype:0001743,mitosis variant,rnai
+WBPhenotype:0001744,cell adhesion variant,allele
+WBPhenotype:0001745,adherens junction variant,rnai
+WBPhenotype:0001746,tight junction defective,rnai
+WBPhenotype:0001747,zinc response variant,allele
+WBPhenotype:0001748,pharynx unattached,allele
+WBPhenotype:0001749,zinc toxicity hypersensitive,allele
+WBPhenotype:0001750,zinc toxicity resistant,allele
+WBPhenotype:0001751,organism hypertonic lethality increased,rnai
+WBPhenotype:0001752,vesicle trafficking variant,allele
+WBPhenotype:0001753,coelomocyte uptake increased,rnai
+WBPhenotype:0001754,endosome to lysosome trafficking defective,allele
+WBPhenotype:0001755,UV induced mitotic germ cell arrest defective,allele
+WBPhenotype:0001756,UV induced apoptosis decreased,allele
+WBPhenotype:0001757,neuropeptide metabolism variant,allele
+WBPhenotype:0001758,neuropeptide processing variant,allele
+WBPhenotype:0001759,21U RNA expression variant,allele
+WBPhenotype:0001760,G tract instability,allele
+WBPhenotype:0001761,axon midline crossing variant,rnai
+WBPhenotype:0001762,uptake of yolk defective,allele
+WBPhenotype:0001763,uptake by intestinal cell defective,allele
+WBPhenotype:0001764,carbon dioxide response variant,allele
+WBPhenotype:0001765,carbon dioxide avoidance variant,allele
+WBPhenotype:0001766,cholesterol depletion hypersensitive,rnai
+WBPhenotype:0001767,commissure handedness defective,rnai
+WBPhenotype:0001769,cytoplasmic RNAi defective,allele
+WBPhenotype:0001770,endo siRNA binding variant,allele
+WBPhenotype:0001772,endogenous transposase levels increased,allele
+WBPhenotype:0001773,enhanced locomotion defective,allele
+WBPhenotype:0001774,gut on the exterior,allele
+WBPhenotype:0001775,hormetic temperature induced life span extension defective,allele
+WBPhenotype:0001776,siRNA expression variant,allele
+WBPhenotype:0001777,pre mRNA levels increased,allele
+WBPhenotype:0001778,nuclear RNAi defective,allele
+WBPhenotype:0001779,miRNA expression variant,allele
+WBPhenotype:0001780,associative learning variant,allele
+WBPhenotype:0001781,hypersensitivity to mutagen,allele
+WBPhenotype:0001782,anoxia response attenuated,allele
+WBPhenotype:0001783,ligand gated channel activity variant,allele
+WBPhenotype:0001785,associative memory defective,allele
+WBPhenotype:0001786,neuronal ion channel clustering defective,allele
+WBPhenotype:0001787,phototaxis defective,allele
+WBPhenotype:0001788,resistant to mutagens,allele
+WBPhenotype:0001789,temperature influenced life span variant,allele
+WBPhenotype:0001790,thermoreceptor currents absent,allele
+WBPhenotype:0001791,defecation cycle temperature compensation variant,allele
+WBPhenotype:0001792,nuclei small,rnai
+WBPhenotype:0001793,aboc expulsion missing,allele
+WBPhenotype:0001794,cytoplasmic processing body variant,rnai
+WBPhenotype:0001796,organism hypersensitive interstrand cross link agents,allele
+WBPhenotype:0001797,pachytene arrested germline nuclei,allele
+WBPhenotype:0001798,inhibition of synaptogenesis defective,allele
+WBPhenotype:0001800,pathogen induced antimicrobial gene expression variant,allele
+WBPhenotype:0001801,axodendritic polarity variant,allele
+WBPhenotype:0001802,body wall muscle relaxation defective,allele
+WBPhenotype:0001803,endosome biogenesis variant,rnai
+WBPhenotype:0001804,fat associated bodies reduced,rnai
+WBPhenotype:0001805,mitochondria vesiculated,rnai
+WBPhenotype:0001806,protein stabilization variant,allele
+WBPhenotype:0001807,alternative splicing variant,allele
+WBPhenotype:0001808,cell corpse digestion variant,allele
+WBPhenotype:0001809,organelle fusion defective,allele
+WBPhenotype:0001810,oocyte septum formation variant,rnai
+WBPhenotype:0001811,serotonin induced fat reduction variant,allele
+WBPhenotype:0001812,embryonic rupture,rnai
+WBPhenotype:0001813,synapsis defective,rnai
+WBPhenotype:0001814,crossover defective,rnai
+WBPhenotype:0001815,desynapsis defective,allele
+WBPhenotype:0001817,enhanced taste aversion defective,allele
+WBPhenotype:0001818,neuron activation variant,allele
+WBPhenotype:0001819,pathogen load variant,allele
+WBPhenotype:0001820,bordering,allele
+WBPhenotype:0001823,sperm recruitment variant,rnai
+WBPhenotype:0001824,meiotic progression prophase variant,rnai
+WBPhenotype:0001825,rudimentary gonad,rnai
+WBPhenotype:0001826,RNA degradation variant,rnai
+WBPhenotype:0001828,RNAi persistence variant,allele
+WBPhenotype:0001829,premature spermatid activation,allele
+WBPhenotype:0001830,response to multiple stressors variant,allele
+WBPhenotype:0001831,intestinal microvilli variant,rnai
+WBPhenotype:0001832,nuclear pore variant,rnai
+WBPhenotype:0001833,membrane trafficking variant,rnai
+WBPhenotype:0001834,mRNA splicing variant,allele
+WBPhenotype:0001835,energy expenditure variant,allele
+WBPhenotype:0001836,eggshell morphology variant,allele
+WBPhenotype:0001837,diet induced life span variant,allele
+WBPhenotype:0001838,drug induced gene expression variant,allele
+WBPhenotype:0001839,phorbol ester resistant,allele
+WBPhenotype:0001840,response to injury variant,allele
+WBPhenotype:0001841,second messenger mediated signaling variant,allele
+WBPhenotype:0001842,drug withdrawal response variant,allele
+WBPhenotype:0001843,hormone metabolism variant,allele
+WBPhenotype:0001844,lipid hydrolysis regulation variant,allele
+WBPhenotype:0001845,lipid modification variant,allele
+WBPhenotype:0001846,phagosome maturation defective,rnai
+WBPhenotype:0001847,sterol induced dauer formation variant,allele
+WBPhenotype:0001848,tube morphogenesis variant,allele
+WBPhenotype:0001849,zinc homeostasis variant,allele
+WBPhenotype:0001850,radiation induced germ cell apoptosis variant,allele
+WBPhenotype:0001851,radiation induced reproductive cell death variant,allele
+WBPhenotype:0001852,antihelmintic response variant,allele
+WBPhenotype:0001853,AAD response variant,allele
+WBPhenotype:0001854,benomyl response variant,allele
+WBPhenotype:0001855,fluoride resistant,allele
+WBPhenotype:0001856,ivermectin response variant,rnai
+WBPhenotype:0001857,pathogen induced gene expression variant,allele
+WBPhenotype:0001858,suppression of head oscillations defective,allele
+WBPhenotype:0001859,Dosage compensation complex assembly variant,rnai
+WBPhenotype:0001860,endocytic recycling defective,allele
+WBPhenotype:0001861,environmental stimuli induced gene expression variant,allele
+WBPhenotype:0001862,manganese homeostasis variant,allele
+WBPhenotype:0001863,manganese response variant,allele
+WBPhenotype:0001864,protein transport variant,allele
+WBPhenotype:0001865,protein ubiquitination variant,rnai
+WBPhenotype:0001866,reduced pathogen accumulation,rnai
+WBPhenotype:0001867,mitotic spindle asters defective early emb,rnai
+WBPhenotype:0001868,meiotic spindle defective,rnai
+WBPhenotype:0001869,meiotic spindle positioning defective,rnai
+WBPhenotype:0001870,meiotic spindle rotation defective,rnai
+WBPhenotype:0001871,drug induced life span variant,rnai
+WBPhenotype:0001872,drug induced locomotion variant,allele
+WBPhenotype:0001873,meiotic spindle assembly defective,rnai
+WBPhenotype:0001874,protein neddylation variant,rnai
+WBPhenotype:0001875,anaphase bridging,rnai
+WBPhenotype:0001876,centriole biogenesis variant,rnai
+WBPhenotype:0001877,nuclear membrane morphology variant,rnai
+WBPhenotype:0001878,hydroxyurea response variant,rnai
+WBPhenotype:0001879,hydroxyurea hypersensitive,allele
+WBPhenotype:0001880,endoplasmic reticulum morphology variant,rnai
+WBPhenotype:0001881,endoplasmic reticulum symmetry variant early emb,rnai
+WBPhenotype:0001882,aneuploidy,rnai
+WBPhenotype:0001885,cleavage furrow initiation defective early emb,rnai
+WBPhenotype:0001886,cleavage furrow termination defective early emb,rnai
+WBPhenotype:0001887,excess seam cells,rnai
+WBPhenotype:0001888,fat associated bodies increased,rnai
+WBPhenotype:0001889,body wall muscle sarcomere morphology variant,rnai
+WBPhenotype:0001890,body wall muscle dense body variant,allele
+WBPhenotype:0001891,M line variant,allele
+WBPhenotype:0001892,glycogen levels variant,rnai
+WBPhenotype:0001893,mitochondrial membrane potential reduced,rnai
+WBPhenotype:0001894,nuclear number variant,rnai
+WBPhenotype:0001895,parental chromosome mixing defective,rnai
+WBPhenotype:0001896,gamma ray induced apoptosis decreased,rnai
+WBPhenotype:0001897,light response variant,allele
+WBPhenotype:0001898,meiotic sister chromatid segregation variant,rnai
+WBPhenotype:0001899,glutathione levels variant,rnai
+WBPhenotype:0001900,reduced levels of reduced glutathione,rnai
+WBPhenotype:0001901,fat associated bodies variant,allele
+WBPhenotype:0001902,fat associated body size increased,allele
+WBPhenotype:0001903,centrosome biogenesis variant,rnai
+WBPhenotype:0001904,manganese toxicity resistant,allele
+WBPhenotype:0001905,fewer eggs laid,rnai
+WBPhenotype:0001906,hypodermal cell elongation defective,allele
+WBPhenotype:0001907,dorsal intercalation defective,rnai
+WBPhenotype:0001908,ventral closure defective,rnai
+WBPhenotype:0001910,kinetochore organization variant,rnai
+WBPhenotype:0001911,axon regeneration defective,allele
+WBPhenotype:0001912,fewer coelomocytes,rnai
+WBPhenotype:0001913,excess coelomocytes,rnai
+WBPhenotype:0001914,fewer pharyngeal cells,rnai
+WBPhenotype:0001915,mRNA expression ectopic,rnai
+WBPhenotype:0001916,increased pathogen survival,rnai
+WBPhenotype:0001917,protein acetylation variant,rnai
+WBPhenotype:0001918,chemical hypersensitive,rnai
+WBPhenotype:0001919,gut granules enlarged,rnai
+WBPhenotype:0001920,twisted pharynx,allele
+WBPhenotype:0001921,meiotic DNA double strand break formation variant,allele
+WBPhenotype:0001922,axonal transport variant,allele
+WBPhenotype:0001923,fewer seam cells,allele
+WBPhenotype:0001924,oocytes stacked,rnai
+WBPhenotype:0001925,oocytes disorganized,rnai
+WBPhenotype:0001926,gonad sheath contraction rate increased,rnai
+WBPhenotype:0001927,extra distal tip cells,rnai
+WBPhenotype:0001928,extra gonad arms,rnai
+WBPhenotype:0001929,linker cell absent,allele
+WBPhenotype:0001930,muscle arm development defective,rnai
+WBPhenotype:0001931,muscle arm axon connection variant,allele
+WBPhenotype:0001932,myopodia present,rnai
+WBPhenotype:0001933,synaptic vesicle tag abnormal in mechanosensory neurons,allele
+WBPhenotype:0001934,vulval muscle extension variant,allele
+WBPhenotype:0001936,resistant to protein aggregation induced paralysis,rnai
+WBPhenotype:0001937,hypersensitive to protein aggregation induced paralysis,rnai
+WBPhenotype:0001938,DNA repair variant,allele
+WBPhenotype:0001939,bitter tastant response variant,allele
+WBPhenotype:0001940,rachis morphology variant,rnai
+WBPhenotype:0001941,rachis narrow,rnai
+WBPhenotype:0001942,rachis absent,rnai
+WBPhenotype:0001943,rachis wide,rnai
+WBPhenotype:0001944,oocyte number decreased,rnai
+WBPhenotype:0001945,oocytes small,rnai
+WBPhenotype:0001946,pachytene progression during oogenesis variant,rnai
+WBPhenotype:0001947,diplotene progression during oogenesis variant,rnai
+WBPhenotype:0001948,diakinesis progression during oogenesis variant,rnai
+WBPhenotype:0001949,diakinesis region organization variant,rnai
+WBPhenotype:0001950,diplotene region organization variant,rnai
+WBPhenotype:0001951,pachytene region organization variant,rnai
+WBPhenotype:0001952,germline nuclear positioning variant,rnai
+WBPhenotype:0001953,nuclear fallout,rnai
+WBPhenotype:0001954,diplotene absent during oogenesis,rnai
+WBPhenotype:0001955,multiple nuclei oocyte,rnai
+WBPhenotype:0001956,oocytes lack nucleus,rnai
+WBPhenotype:0001957,gonad small,rnai
+WBPhenotype:0001958,gonad degenerate,rnai
+WBPhenotype:0001959,spindle pole pulling force variant,allele
+WBPhenotype:0001960,spindle oscillation variant,rnai
+WBPhenotype:0001961,reproductive longevity extended,allele
+WBPhenotype:0001962,missing distal tip cells,allele
+WBPhenotype:0001964,dopaminergic fate atypical,allele
+WBPhenotype:0001966,cell endomembrane physiology variant,allele
+WBPhenotype:0001967,meiotic chromatin reorganization variant,allele
+WBPhenotype:0001968,somatic gonad precursor symmetrical sisters,allele
+WBPhenotype:0001969,germ cell compartment morphology variant,rnai
+WBPhenotype:0001970,germ cell compartment nuclei number variant,rnai
+WBPhenotype:0001971,germ cell compartment anucleate,rnai
+WBPhenotype:0001972,germ cell compartment multinucleate,rnai
+WBPhenotype:0001973,germ cell compartment size variant,rnai
+WBPhenotype:0001974,germ cell compartment small,rnai
+WBPhenotype:0001975,germ cell compartment large,rnai
+WBPhenotype:0001977,germ cell partition morphology variant,rnai
+WBPhenotype:0001978,germ cell partition absent,rnai
+WBPhenotype:0001979,gonad vesiculated,rnai
+WBPhenotype:0001980,germ cell compartment expansion variant,rnai
+WBPhenotype:0001981,germ cell compartment expansion absent,rnai
+WBPhenotype:0001982,cell membrane organization biogenesis variant,rnai
+WBPhenotype:0001983,lawn leaving behavior variant,allele
+WBPhenotype:0001984,long range axon migration variant,allele
+WBPhenotype:0001985,short range axon migration variant,allele
+WBPhenotype:0001986,high temperature induced L1 arrest,rnai
+WBPhenotype:0001987,acetylcholinesterase activity variant,allele
+WBPhenotype:0001988,detergent hypersensitive,allele
+WBPhenotype:0001989,hypoxia hypersensitive,rnai
+WBPhenotype:0001990,hypoxia resistant,rnai
+WBPhenotype:0001991,hypoxia response attenuated,allele
+WBPhenotype:0001992,extra gonadal sheath cells,rnai
+WBPhenotype:0001993,fewer gonadal sheath cells,rnai
+WBPhenotype:0001994,left right handedness variant,rnai
+WBPhenotype:0001995,cell cycle progression variant,rnai
+WBPhenotype:0001997,nuclear anchoring variant,allele
+WBPhenotype:0001998,hypersensitive to laser ablation,allele
+WBPhenotype:0001999,conflicting sensory integration variant,allele
+WBPhenotype:0002000,recovery from enhanced locomotion variant,allele
+WBPhenotype:0002001,synapse density variant,rnai
+WBPhenotype:0002002,supernumerary centrosomes,rnai
+WBPhenotype:0002004,actomyosin contractility defective,allele
+WBPhenotype:0002006,anaphase I progression variant early embryo,allele
+WBPhenotype:0002007,cortical blebs present,rnai
+WBPhenotype:0002009,proteasome core activity variant,rnai
+WBPhenotype:0002010,protein turnover variant,allele
+WBPhenotype:0002011,bivulva,rnai
+WBPhenotype:0002012,meiotic chromosome organization variant,rnai
+WBPhenotype:0002013,univalent meiotic chromosomes,rnai
+WBPhenotype:0002014,current measurement variant,allele
+WBPhenotype:0002015,voltage measurement variant,rnai
+WBPhenotype:0002016,biotin chemotaxis defective,rnai
+WBPhenotype:0002018,retarded seam cell fusion,rnai
+WBPhenotype:0002019,fewer eggs in utero,allele
+WBPhenotype:0002025,cell size decreased,allele
+WBPhenotype:0002028,mechanoreceptor current variant,allele
+WBPhenotype:0002029,metal homeostasis variant,allele
+WBPhenotype:0002030,magnesium homeostasis variant,allele
+WBPhenotype:0002031,lectin response variant,allele
+WBPhenotype:0002032,lectin binding variant,allele
+WBPhenotype:0002033,lectin binding occurs,allele
+WBPhenotype:0002035,resistant to lectin,allele
+WBPhenotype:0002036,susceptible to lectin,allele
+WBPhenotype:0002037,nuclear envelope organization variant,allele
+WBPhenotype:0002038,ciliary localization defective,allele
+WBPhenotype:0002039,retrograde transport variant,allele
+WBPhenotype:0002040,asymmetric chromosome segregation,allele
+WBPhenotype:0002041,molt variant,rnai
+WBPhenotype:0002043,hermaphrodite mating efficiency reduced,allele
+WBPhenotype:0002045,cell corpse number decreased,rnai
+WBPhenotype:0002046,iron homeostasis variant,allele
+WBPhenotype:0002047,muscimol response variant,allele
+WBPhenotype:0002048,abamectin resistant,allele
+WBPhenotype:0002051,ascaroside biosynthesis variant,allele
+WBPhenotype:0002052,ascaroside biosynthesis defective,allele
+WBPhenotype:0002053,ivermectin resistant,allele
+WBPhenotype:0002054,magnesium hypersensitivity,allele
+WBPhenotype:0002055,photocurrent defective,allele
+WBPhenotype:0002056,eating variant,allele
+WBPhenotype:0002057,Bacillus thuringiensis toxin hypersensitive,rnai
+WBPhenotype:0002058,pore forming toxin response variant,allele
+WBPhenotype:0002059,pore forming toxin hypersensitive,rnai
+WBPhenotype:0002060,pore forming toxin resistant,allele
+WBPhenotype:0002061,chromosome decondensation variant,rnai
+WBPhenotype:0002062,chromosome decondensation failure,allele
+WBPhenotype:0002066,basement membrane gap expansion variant,allele
+WBPhenotype:0002067,apical constriction variant,rnai
+WBPhenotype:0002068,astral microtubule asymmetry defective,allele
+WBPhenotype:0002069,axon termination defective,allele
+WBPhenotype:0002070,egg laying response to muscimol variant,allele
+WBPhenotype:0002071,body lengthening response to muscimol variant,allele
+WBPhenotype:0002072,carbohydrate metabolism variant,allele
+WBPhenotype:0002073,cation homeostasis variant,allele
+WBPhenotype:0002074,centrosome dynamics variant,rnai
+WBPhenotype:0002075,eggshell formation variant,allele
+WBPhenotype:0002076,cortical granule exocytosis variant,allele
+WBPhenotype:0002077,dopamine resistant,allele
+WBPhenotype:0002078,histone methylation variant,allele
+WBPhenotype:0002079,delayed reproductive maturity,rnai
+WBPhenotype:0002081,peptide uptake by intestinal cell increased,rnai
+WBPhenotype:0002082,peptide uptake by intestinal cell decreased,rnai
+WBPhenotype:0002084,crossover interference variant,rnai
+WBPhenotype:0002086,crossover distribution variant,rnai
+WBPhenotype:0002087,hydrogen sulfide hypersensitive,allele
+WBPhenotype:0002088,hypersensitive to dauer pheromone,allele
+WBPhenotype:0002089,cell component morphology variant,allele
+WBPhenotype:0002090,endosome morphology variant,rnai
+WBPhenotype:0002091,late endosome morphology variant,allele
+WBPhenotype:0002092,early endosome morphology variant,allele
+WBPhenotype:0002094,RAB-11 recycling endosome morphology variant,rnai
+WBPhenotype:0002095,lysosome-related organelle morphology variant,rnai
+WBPhenotype:0002096,golgi apparatus morphology variant,rnai
+WBPhenotype:0002097,lysosome morphology variant,allele
+WBPhenotype:0002098,cell component localization variant,rnai
+WBPhenotype:0002099,lysosome-related organelle localization variant,rnai
+WBPhenotype:0002100,endosome localization variant,allele
+WBPhenotype:0002101,endoplasmic reticulum localization variant,rnai
+WBPhenotype:0002102,golgi apparatus localization variant,rnai
+WBPhenotype:0002103,lysosome localization variant,rnai
+WBPhenotype:0002104,recycling endosome localization variant,allele
+WBPhenotype:0002105,late endosome localization variant,rnai
+WBPhenotype:0002106,early endosome localization variant,rnai
+WBPhenotype:0002107,RAB-11 recycling endosome localization variant,rnai
+WBPhenotype:0002109,drug susceptible,allele
+WBPhenotype:0002110,RME-1 recycling endosome morphology variant,rnai
+WBPhenotype:0002113,synapsis formation variant,rnai
+WBPhenotype:0002114,swimming induced paralysis,allele
+WBPhenotype:0002115,suicidal,allele
+WBPhenotype:0002116,subviable,allele
+WBPhenotype:0002117,occurences of decapitation,allele
+WBPhenotype:0002118,population fitness phenotype,rnai
+WBPhenotype:0002119,alternative splicing defective,allele
+WBPhenotype:0002120,mitochondrial DNA repair variant,rnai
+WBPhenotype:0002122,persistence of paternal mitochondria,rnai
+WBPhenotype:0002124,circumferential actin bundles disorganized,rnai
+WBPhenotype:0002125,growth inhibition response to chemical,allele
+WBPhenotype:0002126,intestinal fluorescence decreased,allele
+WBPhenotype:0002127,intraflagellar transport velocity variant,allele
+WBPhenotype:0002128,leaving assay defective,allele
+WBPhenotype:0002129,mitochondrial DNA copy number variant,allele
+WBPhenotype:0002130,post mating variant,allele
+WBPhenotype:0002131,muscle cell ultrastructure variant,allele
+WBPhenotype:0002132,protein complex organization variant,allele
+WBPhenotype:0002133,ooplasmic streaming slow,allele
+WBPhenotype:0002134,predator escape defective,allele
+WBPhenotype:0002136,no anchor cell,allele
+WBPhenotype:0002137,reduced translation initiation,rnai
+WBPhenotype:0002138,acquired thermotolerance variant,allele
+WBPhenotype:0002139,linker cell morphology variant,rnai
+WBPhenotype:0002140,male attraction response variant,allele
+WBPhenotype:0002141,oxygen consumption variant,rnai
+WBPhenotype:0002142,mitochondrial respiratory chain variant,allele
+WBPhenotype:0002143,mitochondrial respiratory complex II variant,allele
+WBPhenotype:0002145,siRNA processing defective,allele
+WBPhenotype:0002146,small RNA germline expression variant,allele
+WBPhenotype:0002147,small RNA somatic expression variant,allele
+WBPhenotype:0002149,X cluster small RNA expression variant,allele
+WBPhenotype:0002150,exo-RNAi response variant,allele
+WBPhenotype:0002151,mRNA deadenylation variant,rnai
+WBPhenotype:0002153,dsRNA processing defective,allele
+WBPhenotype:0002154,polysome mRNA association variant,allele
+WBPhenotype:0002155,pre miRNA processing defective,rnai
+WBPhenotype:0002156,temperature learning variant,allele
+WBPhenotype:0002157,translation repression variant,allele
+WBPhenotype:0002158,P granule degradation defective,allele
+WBPhenotype:0002159,increased pathogen accumulation,rnai
+WBPhenotype:0002160,intraflagellar transport complex destabilized,allele
+WBPhenotype:0002161,mitotic chromatin remodeling variant,allele
+WBPhenotype:0002162,multipolar mitotic spindle,allele
+WBPhenotype:0002163,oxygen consumption decreased,rnai
+WBPhenotype:0002164,innate immune response variant,allele
+WBPhenotype:0002166,muscle membrane potential variant,allele
+WBPhenotype:0002167,transgenerational accumulation of histone methylation,rnai
+WBPhenotype:0002168,transgenerational loss of fertility,rnai
+WBPhenotype:0002169,reproductive longevity shortened,rnai
+WBPhenotype:0002170,calcium mediated signaling variant,allele
+WBPhenotype:0002171,alkaline pH chemotaxis variant,allele
+WBPhenotype:0002172,pathogen release variant,rnai
+WBPhenotype:0002174,cell number decreased,allele
+WBPhenotype:0002175,cell number increased,allele
+WBPhenotype:0002176,seam cell morphology variant,rnai
+WBPhenotype:0002178,plasma membrane leaflet composition variant,rnai
+WBPhenotype:0002180,apoptotic cell shedding variant,rnai
+WBPhenotype:0002181,extra excretory cells,rnai
+WBPhenotype:0002182,reactive oxygen species homeostasis variant,rnai
+WBPhenotype:0002183,oxidative DNA damage variant,allele
+WBPhenotype:0002184,starvation induced apoptosis variant,rnai
+WBPhenotype:0002185,cell fate transformation to endoderm,rnai
+WBPhenotype:0002186,cell fate transformation to pharyngeal muscle,rnai
+WBPhenotype:0002187,cell fate transformation to body wall muscle,rnai
+WBPhenotype:0002188,male somatic gonad development variant,rnai
+WBPhenotype:0002189,extra linker cells,allele
+WBPhenotype:0002190,fewer hypodermal cells,rnai
+WBPhenotype:0002191,fewer sex myoblasts,rnai
+WBPhenotype:0002192,extra sex myoblasts,rnai
+WBPhenotype:0002193,posterior reversed vulval lineage,rnai
+WBPhenotype:0002195,food dependent growth variant,allele
+WBPhenotype:0002196,outward rectifying current variant,allele
+WBPhenotype:0002198,neuromuscular junction organization variant,allele
+WBPhenotype:0002199,neuron calcium transient levels variant,allele
+WBPhenotype:0002200,oviduct muscle defective,allele
+WBPhenotype:0002201,apoptotic DNA degradation defective,allele
+WBPhenotype:0002202,pharynx extension defective,allele
+WBPhenotype:0002204,procorpus contraction defective,allele
+WBPhenotype:0002205,hypersensitive to galactose,allele
+WBPhenotype:0002206,galactose metabolism variant,allele
+WBPhenotype:0002207,missing gonad arms,allele
+WBPhenotype:0002209,hook development variant,allele
+WBPhenotype:0002210,extra rays,allele
+WBPhenotype:0002211,phasmid neuron dye filling defect,rnai
+WBPhenotype:0002212,amphid neuron dye filling defect,allele
+WBPhenotype:0002213,kinase activity reduced,allele
+WBPhenotype:0002214,extra pharyngeal muscle cells,allele
+WBPhenotype:0002215,fewer body wall muscles,allele
+WBPhenotype:0002216,pattern antibody staining variant,allele
+WBPhenotype:0002218,arsenite hypersensitive,rnai
+WBPhenotype:0002219,fluoranthene hypersensitive,allele
+WBPhenotype:0002220,antimonite hypersensitivity,allele
+WBPhenotype:0002223,manganese hypersensitivity,allele
+WBPhenotype:0002224,mercury hypersensitive,rnai
+WBPhenotype:0002226,cobalt hypersensitive,allele
+WBPhenotype:0002230,metal accumulation increased,allele
+WBPhenotype:0002231,manganese induced oxidative stress response,allele
+WBPhenotype:0002232,synaptic remodeling variant,allele
+WBPhenotype:0002233,osmolarity modulated swimming variant,allele
+WBPhenotype:0002234,increased acidified compartments,allele
+WBPhenotype:0002235,growth defective on low phosphate media,allele
+WBPhenotype:0002236,endo lysosomal degradation pathway defective,allele
+WBPhenotype:0002237,endocytic recycling compartment organization and biogenesis defective,allele
+WBPhenotype:0002238,increased levels of reactive oxygen species,rnai
+WBPhenotype:0002239,reduced levels of reactive oxygen species,allele
+WBPhenotype:0002240,gut granule morphology variant,rnai
+WBPhenotype:0002241,feeding reduced,rnai
+WBPhenotype:0002242,hypersensitive to iron deficiency,allele
+WBPhenotype:0002243,phytochelatin synthesis deficient,allele
+WBPhenotype:0002244,arsenic hypersensitive,rnai
+WBPhenotype:0002245,endogenous zinc levels reduced,allele
+WBPhenotype:0002248,hypersensitive to zinc deficiency,allele
+WBPhenotype:0002250,silver hypersensitive,rnai
+WBPhenotype:0002251,silver nanoparticle hypersensitive,allele
+WBPhenotype:0002252,increased susceptibility to viral infection,allele
+WBPhenotype:0002253,22G RNA expression reduced,allele
+WBPhenotype:0002255,amino acid metabolism variant,rnai
+WBPhenotype:0002256,selenium response variant,allele
+WBPhenotype:0002257,iron hypersensitive,allele
+WBPhenotype:0002258,nickel toxicity resistant,allele
+WBPhenotype:0002259,dendritic termini number reduced,allele
+WBPhenotype:0002260,gamete necrotic death increased,allele
+WBPhenotype:0002261,neurite connectivity defective,allele
+WBPhenotype:0002262,postsynaptic component localization variant,allele
+WBPhenotype:0002263,mitochondrial membrane potential increased,allele
+WBPhenotype:0002264,ATP levels increased,rnai
+WBPhenotype:0002265,lysosome-related organelle biogenesis variant,allele
+WBPhenotype:0002266,mitochondrial content variant,rnai
+WBPhenotype:0002267,mitochondrial content increased,allele
+WBPhenotype:0002268,mitochondrial content decreased,allele
+WBPhenotype:0002269,oxygen consumption increased,rnai
+WBPhenotype:0002270,metabolite content decreased,allele
+WBPhenotype:0002272,protein carbonylation variant,allele
+WBPhenotype:0002273,dietary sugar response variant,allele
+WBPhenotype:0002275,plugged excretory pore,rnai
+WBPhenotype:0002276,dauer lifespan shortened,rnai
+WBPhenotype:0002277,dauer lifespan extended,rnai
+WBPhenotype:0002278,acute functional tolerance to alcohol defective,allele
+WBPhenotype:0002279,fat associated body size decreased,allele
+WBPhenotype:0002280,organism osmotic stress resistant,allele
+WBPhenotype:0002281,organism osmotic stress hypersensitive,rnai
+WBPhenotype:0002282,autophagy increased,rnai
+WBPhenotype:0002283,autophagy reduced,rnai
+WBPhenotype:0002284,head bend angle variant,allele
+WBPhenotype:0002285,head bend angle decreased,allele
+WBPhenotype:0002286,head bend angle increased,allele
+WBPhenotype:0002287,tail movement variant,allele
+WBPhenotype:0002288,tail bend angle variant,allele
+WBPhenotype:0002289,tail bend angle increased,allele
+WBPhenotype:0002290,tail bend angle decreased,allele
+WBPhenotype:0002291,body posture amplitude variant,allele
+WBPhenotype:0002292,body posture amplitude decreased,allele
+WBPhenotype:0002293,body posture amplitude increased,allele
+WBPhenotype:0002294,body posture wavelength variant,allele
+WBPhenotype:0002295,body posture wavelength decreased,allele
+WBPhenotype:0002296,body posture wavelength increased,allele
+WBPhenotype:0002298,coiling frequency variant,allele
+WBPhenotype:0002299,coiling frequency decreased,allele
+WBPhenotype:0002300,coiling frequency increased,allele
+WBPhenotype:0002301,nose movement variant,allele
+WBPhenotype:0002302,nose movement decreased,allele
+WBPhenotype:0002303,nose movement increased,allele
+WBPhenotype:0002304,head movement decreased,rnai
+WBPhenotype:0002305,head movement increased,allele
+WBPhenotype:0002306,tail movement decreased,rnai
+WBPhenotype:0002307,tail movement increased,allele
+WBPhenotype:0002308,pausing variant,allele
+WBPhenotype:0002309,pausing decreased,allele
+WBPhenotype:0002310,pausing increased,allele
+WBPhenotype:0002312,turning frequency variant,allele
+WBPhenotype:0002313,turning frequency increased,allele
+WBPhenotype:0002314,turning frequency reduced,allele
+WBPhenotype:0002317,dwelling increased,allele
+WBPhenotype:0002318,dwelling reduced,allele
+WBPhenotype:0002319,roaming increased,allele
+WBPhenotype:0002320,reversal variant,allele
+WBPhenotype:0002321,forward point velocity decreased,allele
+WBPhenotype:0002322,forward point velocity increased,allele
+WBPhenotype:0002323,backward point velocity variant,allele
+WBPhenotype:0002324,backward point velocity decreased,allele
+WBPhenotype:0002325,backward point velocity increased,allele
+WBPhenotype:0002326,velocity of movement decreased,allele
+WBPhenotype:0002327,velocity of movement increased,allele
+WBPhenotype:0002328,amplitude of sinusoidal movement increased,allele
+WBPhenotype:0002332,track length variant,allele
+WBPhenotype:0002335,path curvature variant,allele
+WBPhenotype:0002336,path curvature increased,allele
+WBPhenotype:0002337,path curvature decreased,allele
+WBPhenotype:0002338,body proportion variant,allele
+WBPhenotype:0002341,bent posture variant,allele
+WBPhenotype:0002342,bent posture increased,allele
+WBPhenotype:0002343,bent posture decreased,allele
+WBPhenotype:0002344,backing decreased,allele
+WBPhenotype:0002345,forward locomotion variant,allele
+WBPhenotype:0002346,forward locomotion increased,allele
+WBPhenotype:0002347,forward locomotion decreased,allele
+WBPhenotype:0002348,frequency of body bends increased,allele
+WBPhenotype:0002349,phosphatidylinositol 3-phosphate levels reduced,allele
+WBPhenotype:0002350,hydrogen peroxide levels increased,allele
+WBPhenotype:0002351,hydrogen peroxide levels reduced,rnai
+WBPhenotype:0002352,tRNA expression increased,rnai
+WBPhenotype:0002353,tRNA expression decreased,rnai
+WBPhenotype:0002354,increased susceptibility to fungal infection,allele
+WBPhenotype:0002355,increased susceptibility to bacterial pathogens,rnai
+WBPhenotype:0002357,metabolite content increased,allele
+WBPhenotype:0002358,transdifferentiation defective,allele
+WBPhenotype:0002359,protein carbonylation increased,allele
+WBPhenotype:0002360,cold hypersensitive,allele
+WBPhenotype:0002361,membrane fluidity increased,allele
+WBPhenotype:0002362,protein sumoylation variant,rnai
+WBPhenotype:0002363,cholesterol depletion resistant,allele
+WBPhenotype:0002364,axonal degeneration,allele
+WBPhenotype:0002365,regenerative axonal fusion defective,allele
+WBPhenotype:0002366,touch-induced suppression of head movement defective,allele
+WBPhenotype:0002367,non-living barrier escape defective,allele
+WBPhenotype:0002368,lysosomal refractile body accumulation,allele
+WBPhenotype:0002369,sister cell division timing asynchrony reduced,rnai
+WBPhenotype:0002370,noxious heat avoidance defective,allele
+WBPhenotype:0002371,vesicle maturation defective,allele
+WBPhenotype:0002372,presynaptic vesicle morphology altered,allele
+WBPhenotype:0002373,conditional attraction to bacterial lawn,allele
+WBPhenotype:0002374,RNAi transport defective,allele
+WBPhenotype:0002375,reversion of swimming paralysis,allele
+WBPhenotype:0002376,mRNA poly-A tail length decreased,rnai
+WBPhenotype:0002377,mRNA poly-A tail length increased,rnai
+WBPhenotype:0002378,pathogen avoidance variant,allele
+WBPhenotype:0002379,mitochondria localization variant,allele
+WBPhenotype:0002380,neuron degeneration enhanced,allele
+WBPhenotype:0002381,pheromone production variant,allele
+WBPhenotype:0002382,resistant to bioactive compound,allele
+WBPhenotype:0002385,high pH avoidance defective,allele
+WBPhenotype:0002386,fibrous body-membranous organelle,allele
+WBPhenotype:0002387,supernumerary asters,allele
+WBPhenotype:0002388,metaphase variant,allele
+WBPhenotype:0002389,anaphase variant,allele
+WBPhenotype:0002390,variable cell division timing,rnai
+WBPhenotype:0002391,cytokinesis failure,rnai
+WBPhenotype:0002392,age dependent somatic depletion of fat,allele
+WBPhenotype:0002393,anterior posterior neurite growth variant,allele
+WBPhenotype:0002394,phagosome sealing defective,allele
+WBPhenotype:0002395,corpse engulfment initiation variant,allele
+WBPhenotype:0002396,tumor prolapse frequency decreased,rnai
+WBPhenotype:0002397,tumor prolapse frequency increased,rnai
+WBPhenotype:0002398,starved L1 larvae aggregation variant,allele
+WBPhenotype:0002399,neurotransmitter response variant,allele
+WBPhenotype:0002400,glucose intolerant,allele
+WBPhenotype:0002401,excess fatty acids,allele
+WBPhenotype:0002402,cell position defective,rnai
+WBPhenotype:0002403,P cell misalignment at ventral midline,allele
+WBPhenotype:0002404,cell cell contacts abnormal,allele
+WBPhenotype:0002405,pheromone behavioral response variant,allele
+WBPhenotype:0002408,cytokinesis variant,allele
+WBPhenotype:0002410,cleavage furrow defective,rnai
+WBPhenotype:0002413,multiple nuclei,rnai
+WBPhenotype:0002414,spindle variant,allele
+WBPhenotype:0002415,spindle assembly defective,rnai
+WBPhenotype:0002416,spindle position variant,allele
+WBPhenotype:0002420,chromatin modification variant,allele
+WBPhenotype:0002421,cold resistant,allele
+WBPhenotype:0002422,tunicamycin resistant,allele
+WBPhenotype:0002423,hypoxia response variant,allele
+WBPhenotype:0002428,intestinal degeneration,rnai
+WBPhenotype:0002429,protein glycosylation variant,rnai
+WBPhenotype:0002430,mitochondrial DNA damage variant,allele
+WBPhenotype:0002431,alternative lengthening of telomeres,allele
+WBPhenotype:0002432,EGF-induced sleep variant,allele
+WBPhenotype:0002433,EGF-induced sleep resistant,allele
+WBPhenotype:0002434,mitochondrial stress response variant,allele
+WBPhenotype:0002436,high susceptibility to induced DNA damage,allele
+WBPhenotype:0002438,repetitive transgene expression reduced,allele
+WBPhenotype:0002440,sperm fertility defective,allele
+WBPhenotype:0002441,pharyngeal inter-pump interval increased,allele
+WBPhenotype:0002442,pharyngeal pump duration increased,allele
+WBPhenotype:0002443,spicule protraction variant,allele
+WBPhenotype:0002446,pharyngeal pumping rate in response to light variant,rnai
+WBPhenotype:0002457,ectopic vulva in male,allele
+WBPhenotype:0002458,maternal effect morphology variant,rnai
+WBPhenotype:0002459,hyperinduction of antimicrobial peptide expression after infection,rnai
+WBPhenotype:0002460,no induction of antimicrobial peptide expression after infection,rnai
+WBPhenotype:0002461,pathogen adherence decreased,allele
+WBPhenotype:0002462,pathogen adherence increased,rnai
+WBPhenotype:0002463,hookless,allele
+WBPhenotype:0002464,multiple hooks,allele
+WBPhenotype:0002465,histone ubiquitination variant,allele
+WBPhenotype:0002466,RNA methylation variant,allele
+WBPhenotype:0002467,male reproductive longevity extended,allele
+WBPhenotype:0002468,translation rate reduced,allele
+WBPhenotype:0002469,plate tap habituation variant,allele
+WBPhenotype:0002471,cilia length increased,allele
+WBPhenotype:0002472,cilia length decreased,allele
+WBPhenotype:0002473,autophagy block,rnai
+WBPhenotype:0002474,viral resistance increased,rnai
+WBPhenotype:0002476,pharynx length increased,allele
+WBPhenotype:0002477,ribosome localization variant,allele
+WBPhenotype:0002478,axotomy response variant,allele
+WBPhenotype:0002479,axon regeneration enhanced,allele
+WBPhenotype:0002481,heme levels decreased,rnai
+WBPhenotype:0002482,heme levels increased,rnai
+WBPhenotype:0002483,fungal resistance increased,rnai
+WBPhenotype:0002484,membrane fluidity variant,allele
+WBPhenotype:0002486,persistent primordial germ cell lobes,allele
+WBPhenotype:0002488,intestinal integrity increased,allele
+WBPhenotype:0002489,intestinal integrity reduced,allele
+WBPhenotype:0002490,ectopic axon outgrowth,allele
+WBPhenotype:0002491,ectopic neurite outgrowth,allele
+WBPhenotype:0002492,ectopic body wall muscle,allele
+WBPhenotype:0002493,ectopic cell,allele
+WBPhenotype:0002494,ectopic endoderm,rnai
+WBPhenotype:0002495,ectopic hypodermis,rnai
+WBPhenotype:0002496,ectopic neuron,allele
+WBPhenotype:0002497,ectopic pharyngeal muscle,allele
+WBPhenotype:0002501,ectopic cleavage furrow early emb,rnai
+WBPhenotype:0002502,protein acetylation increased,allele
+WBPhenotype:0002503,meiotic DNA double strand break formation increased,allele
+WBPhenotype:0002504,pathogen release reduced,allele
+WBPhenotype:0002506,pathogen infection clearance rate increased,allele
+WBPhenotype:0002507,pathogen infection clearance rate decreased,allele
+WBPhenotype:0002508,extra neuron,allele
+WBPhenotype:0002509,extra dopaminergic neuron,allele
+WBPhenotype:0002510,fewer neurons,allele
+WBPhenotype:0002511,fewer glutamatergic neurons,allele
+WBPhenotype:0002512,thermosensory behavior variant,allele
+WBPhenotype:0002513,thermotaxis variant,allele
+WBPhenotype:0002514,backing absent,allele
+WBPhenotype:0002515,organism pathogen response defective,allele
+WBPhenotype:0002517,burrowing assay distance reduced,allele
+WBPhenotype:0002519,axon length reduced,allele
+WBPhenotype:0002520,gap junction plaque morphology abnormal,rnai
+WBPhenotype:0002521,gap junction plaque number increased,allele
+WBPhenotype:0002523,slow recovery from starvation-induced L1 arrest,rnai
+WBPhenotype:0002524,molybdenum cofactor depletion hypersensitive,allele
+WBPhenotype:0002526,response to molybdenum cofactor depletion abnormal,allele
+WBPhenotype:0002528,miRNA biogenesis defective,allele
+WBPhenotype:0002532,allophagy defective,allele
+WBPhenotype:0002534,antimicrobial gene expression variant,allele
+WBPhenotype:0002535,dye filling defect,allele
+WBPhenotype:0002537,P granule number reduced,rnai
+WBPhenotype:0002538,calcium signaling in spermatheca variant,allele
+WBPhenotype:0002539,antimicrobial gene expression increased,rnai
+WBPhenotype:0002540,lawn leaving reduced,allele
+WBPhenotype:0002541,radiation induced germ cell apoptosis resistant,allele
+WBPhenotype:0002542,intranuclear chromatin localization variant,allele
+WBPhenotype:0002544,hypersensitive to Enterobacter commensals,allele
+WBPhenotype:0002545,response to bacteria variant,allele
+WBPhenotype:0002546,bacterial load in gut variant,allele
+WBPhenotype:0002547,gut Enterobacteriaceae bloom,allele
+WBPhenotype:0002548,kinker from conflicting forward and backward body bend propagation,allele
+WBPhenotype:0002549,increased frequency of spontaneous reversal initiation,allele
+WBPhenotype:0002550,conflicted kinker with gradual backward movement,allele
+WBPhenotype:0002559,burrowing abnormal,allele
+WBPhenotype:0002560,burrowing in response to high population density increased,allele
+WBPhenotype:0002562,lysosome homeostasis abnormal,rnai
+WBPhenotype:0002563,neuron physiology phenotype,allele
+WBPhenotype:0002565,associative olfactory memory phenotype,allele
+WBPhenotype:0002567,long-term associative olfactory memory defective,allele
+WBPhenotype:0002568,long-term associative memory phenotype,allele
+WBPhenotype:0002569,hypodermis development variant,rnai
+WBPhenotype:0002570,embryonic arrest during gastrulation,rnai
+WBPhenotype:0002571,anterior enclosure defective,rnai
+WBPhenotype:0002572,mitophagy abnormal,allele
+WBPhenotype:0002573,mitophagy reduced,allele
+WBPhenotype:0002575,gene expression level abnormal,allele
+WBPhenotype:0002576,gene expression level variation reduced,allele
+WBPhenotype:0002577,basement membrane composition phenotype,rnai
+WBPhenotype:0002578,basement membrane laminin level phenotype,rnai
+WBPhenotype:0002579,basement membrane type IV collagen level phenotype,rnai
+WBPhenotype:0002581,cell position variability increased,allele
+WBPhenotype:0002583,miniature inhibitory post-synaptic current amplitude increased,allele
+WBPhenotype:0002584,bisphenol A resistant,allele
+WBPhenotype:0002587,Pluronic gel burrowing impaired,allele
+WBPhenotype:0002588,basement membrane phenotype,allele
+WBPhenotype:0002589,neuron degeneration reduced,rnai
+WBPhenotype:0002590,linker cell detached,rnai
+WBPhenotype:0002591,dendrite length reduced,allele
+WBPhenotype:0002592,organism response to gravitational force abnormal,allele
+WBPhenotype:0002594,long term plate tap habituation variant,allele
+WBPhenotype:0002595,sleep deprivation-induced brood size reduction enhanced,allele
+WBPhenotype:0002596,sleep deprivation-induced brood size reduction suppressed,allele
+WBPhenotype:0002598,gustatory aversive learning abnormal,allele
+WBPhenotype:0002599,long-term habituation phenotype,allele
+WBPhenotype:0002600,short-term habituation phenotype,allele
+WBPhenotype:0002601,short-term associative memory phenotype,allele
+WBPhenotype:0002602,reduced frequency of spontaneous reversal initiation,allele
+WBPhenotype:0002605,dipeptide repeat protein toxicity suppressed,rnai
+WBPhenotype:0002606,necrotic cell death decreased,allele
+WBPhenotype:0002607,nuclear size abnormal,rnai
+WBPhenotype:0002608,humpback,rnai
+WBPhenotype:0002610,ectopic apoptosis,allele
+WBPhenotype:0002611,meiotic cytoplasmic streaming defective,rnai
+WBPhenotype:0002613,meiotic cytoplasmic streaming phenotype,rnai
+WBPhenotype:0002616,cellular calcium level abnormal,allele
+WBPhenotype:0002617,cytosolic calcium levels increased,allele
+WBPhenotype:0002618,cytosolic calcium levels decreased,allele
+WBPhenotype:0002621,antimicrobial gene expression reduced,allele
+WBPhenotype:0002622,decreased recruitment of actin upon wounding,rnai
+WBPhenotype:0002623,no induction of antimicrobial peptide expression after injury,rnai
+WBPhenotype:0002633,pharynx ingressed,allele
+WBPhenotype:0002634,ER stress resistant,allele
+WBPhenotype:0002635,epidermal shedding,allele
+WBPhenotype:0002636,detachment of chromatin from nuclear periphery,allele
+WBPhenotype:0002637,iron levels decreased,allele
+WBPhenotype:0002638,increased susceptibility to oomycete infection,allele
+WBPhenotype:0002640,cuticle integrity decreased,allele
+WBPhenotype:0002641,cuticle permeability increased,allele
+WBPhenotype:0002643,chemical accumulation increased,rnai
+WBPhenotype:0002645,thermorecovery abnormal,rnai
+WBPhenotype:0002646,thermorecovery reduced,rnai
+WBPhenotype:0002647,dendrite morphology variant,allele
+WBPhenotype:0002648,dendrite branching variant,rnai
+WBPhenotype:0002649,egg laying response to chemical abnormal,allele
+WBPhenotype:0002655,exopher production in muscle decreased,rnai
+WBPhenotype:0002656,exopher production in muscle increased,rnai
+WBPhenotype:0002657,dietary saturated fatty acid intolerant,allele
+WBPhenotype:0002659,muscle strength decreased,allele
+WBPhenotype:0002663,intracellular lipid surveillance response abnormal,rnai
+WBPhenotype:0002666,abnormal dissolution of RNA condensate,rnai
+WBPhenotype:0004001,hermaphrodite mating variant,allele
+WBPhenotype:0004003,mate finding defective,allele
+WBPhenotype:0004004,male response to contact defective,rnai
+WBPhenotype:0004006,post hermaphrodite contact variant,allele
+WBPhenotype:0004007,periodic spicule prodding defective,rnai
+WBPhenotype:0004008,sustained spicule protraction defective,allele
+WBPhenotype:0004009,approximate vulval location variant,allele
+WBPhenotype:0004012,sperm transfer continuation defective,allele
+WBPhenotype:0004014,post male contact variant,allele
+WBPhenotype:0004016,dauer nictation behavior variant,allele
+WBPhenotype:0004017,locomotor coordination variant,rnai
+WBPhenotype:0004018,sinusoidal movement variant,allele
+WBPhenotype:0004022,amplitude of sinusoidal movement variant,allele
+WBPhenotype:0004023,frequency of body bend variant,allele
+WBPhenotype:0004024,wavelength of movement variant,allele
+WBPhenotype:0004025,velocity of movement variant,allele
+WBPhenotype:0004026,nose touch variant,allele
+WBPhenotype:0004027,plate tap reflex variant,allele
+WBPhenotype:0004028,slowing response on food variant,allele
+WBPhenotype:0004029,sexually dimorphic mechanosensation variant,allele
+WBPhenotype:0004030,male response to hermaphrodite variant,allele
+WBPhenotype:0004031,mate searching variant,allele
+WBPhenotype:0006001,squashed vulva,allele
+WBPhenotype:0008001,embryonic cell fate specification variant,rnai
+WBPhenotype:0010001,cell growth variant,rnai
+WBPhenotype:0010003,cell corpse appearance delayed,allele
+WBPhenotype:0010004,cell corpse degradation variant,rnai

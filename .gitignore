@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.log
+result.json
+http_response.json
+http_response-*.xml
+.DS_Store
+
+dist/
+output/
+*.egg-info/
+
+papers/
