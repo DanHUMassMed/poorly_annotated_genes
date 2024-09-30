@@ -7,7 +7,7 @@ result.json
 http_response.json
 http_response-*.xml
 .DS_Store
-
+output.json
 dist/
 output/
 *.egg-info/

@@ -1,0 +1,71 @@
+Wormbase_Id,Go_Id,Category,Term
+WBGene00002285,GO:0003730,Molecular_function,mRNA 3'-UTR binding
+WBGene00002285,GO:0016442,Cellular_component,RISC complex
+WBGene00002285,GO:0046580,Biological_process,negative regulation of Ras protein signal transduction
+WBGene00002285,GO:0018996,Biological_process,"molting cycle, collagen and cuticulin-based cuticle"
+WBGene00002285,GO:0035195,Biological_process,miRNA-mediated post-transcriptional gene silencing
+WBGene00002285,GO:0000956,Biological_process,nuclear-transcribed mRNA catabolic process
+WBGene00002285,GO:0040034,Biological_process,"regulation of development, heterochronic"
+WBGene00002285,GO:0045947,Biological_process,negative regulation of translational initiation
+WBGene00002993,GO:0003730,Molecular_function,mRNA 3'-UTR binding
+WBGene00002993,GO:0007618,Biological_process,mating
+WBGene00002993,GO:0030182,Biological_process,neuron differentiation
+WBGene00002993,GO:0010171,Biological_process,body morphogenesis
+WBGene00002993,GO:0000956,Biological_process,nuclear-transcribed mRNA catabolic process
+WBGene00002993,GO:0035195,Biological_process,miRNA-mediated post-transcriptional gene silencing
+WBGene00002993,GO:0090444,Biological_process,"regulation of nematode larval development, heterochronic"
+WBGene00002993,GO:0048666,Biological_process,neuron development
+WBGene00002993,GO:0002119,Biological_process,nematode larval development
+WBGene00002993,GO:0040026,Biological_process,positive regulation of vulval development
+WBGene00002993,GO:0018991,Biological_process,egg-laying behavior
+WBGene00002993,GO:0009791,Biological_process,post-embryonic development
+WBGene00002993,GO:0045947,Biological_process,negative regulation of translational initiation
+WBGene00003039,GO:0045962,Biological_process,"positive regulation of development, heterochronic"
+WBGene00003039,GO:0035278,Biological_process,miRNA-mediated gene silencing by inhibition of translation
+WBGene00003088,GO:0003730,Molecular_function,mRNA 3'-UTR binding
+WBGene00003088,GO:0035545,Biological_process,determination of left/right asymmetry in nervous system
+WBGene00003088,GO:0035195,Biological_process,miRNA-mediated post-transcriptional gene silencing
+WBGene00003261,GO:1903231,Molecular_function,mRNA base-pairing translational repressor activity
+WBGene00003261,GO:0016442,Cellular_component,RISC complex
+WBGene00003261,GO:0035194,Biological_process,regulatory ncRNA-mediated post-transcriptional gene silencing
+WBGene00003262,GO:0009408,Biological_process,response to heat
+WBGene00003262,GO:0006979,Biological_process,response to oxidative stress
+WBGene00003262,GO:0006974,Biological_process,DNA damage response
+WBGene00003262,GO:0010507,Biological_process,negative regulation of autophagy
+WBGene00003262,GO:0008340,Biological_process,determination of adult lifespan
+WBGene00003262,GO:0006915,Biological_process,apoptotic process
+WBGene00003262,GO:0009314,Biological_process,response to radiation
+WBGene00003263,GO:0003729,Molecular_function,mRNA binding
+WBGene00003263,GO:0050779,Biological_process,RNA destabilization
+WBGene00003264,GO:0003729,Molecular_function,mRNA binding
+WBGene00003264,GO:0050779,Biological_process,RNA destabilization
+WBGene00003265,GO:0003729,Molecular_function,mRNA binding
+WBGene00003265,GO:0050779,Biological_process,RNA destabilization
+WBGene00003284,GO:0050779,Biological_process,RNA destabilization
+WBGene00003289,GO:0040028,Biological_process,regulation of vulval development
+WBGene00003289,GO:0035195,Biological_process,miRNA-mediated post-transcriptional gene silencing
+WBGene00003299,GO:0003730,Molecular_function,mRNA 3'-UTR binding
+WBGene00003299,GO:0016442,Cellular_component,RISC complex
+WBGene00003299,GO:0009408,Biological_process,response to heat
+WBGene00003299,GO:0035195,Biological_process,miRNA-mediated post-transcriptional gene silencing
+WBGene00003299,GO:0006979,Biological_process,response to oxidative stress
+WBGene00003299,GO:1900182,Biological_process,positive regulation of protein localization to nucleus
+WBGene00003299,GO:0008340,Biological_process,determination of adult lifespan
+WBGene00003299,GO:0051091,Biological_process,positive regulation of DNA-binding transcription factor activity
+WBGene00003299,GO:0035545,Biological_process,determination of left/right asymmetry in nervous system
+WBGene00003308,GO:0010468,Biological_process,regulation of gene expression
+WBGene00003312,GO:0030371,Molecular_function,translation repressor activity
+WBGene00003312,GO:0035278,Biological_process,miRNA-mediated gene silencing by inhibition of translation
+WBGene00003312,GO:0046580,Biological_process,negative regulation of Ras protein signal transduction
+WBGene00003312,GO:0045962,Biological_process,"positive regulation of development, heterochronic"
+WBGene00003312,GO:0018996,Biological_process,"molting cycle, collagen and cuticulin-based cuticle"
+WBGene00003335,GO:0035278,Biological_process,miRNA-mediated gene silencing by inhibition of translation
+WBGene00003335,GO:0045962,Biological_process,"positive regulation of development, heterochronic"
+WBGene00003366,GO:0000900,Molecular_function,mRNA regulatory element binding translation repressor activity
+WBGene00003366,GO:0003730,Molecular_function,mRNA 3'-UTR binding
+WBGene00003366,GO:0007400,Biological_process,neuroblast fate determination
+WBGene00003366,GO:0035195,Biological_process,miRNA-mediated post-transcriptional gene silencing
+WBGene00003366,GO:0045167,Biological_process,asymmetric protein localization involved in cell fate determination
+WBGene00006967,GO:1990904,Cellular_component,ribonucleoprotein complex
+WBGene00018850,GO:0004601,Molecular_function,peroxidase activity
+WBGene00018850,GO:0098869,Biological_process,cellular oxidant detoxification
